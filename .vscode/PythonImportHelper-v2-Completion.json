@@ -1,0 +1,3126 @@
+[
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Pipe",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Manager",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Manager",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "ResourceConfig",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "PlayWithHumanConfig",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "PlayWithHumanConfig",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "chess_zero.config",
+        "description": "chess_zero.config",
+        "isExtraImport": true,
+        "detail": "chess_zero.config",
+        "documentation": {}
+    },
+    {
+        "label": "ftplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ftplib",
+        "description": "ftplib",
+        "detail": "ftplib",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "StreamHandler",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "basicConfig",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Formatter",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "disable",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "keras.engine.topology",
+        "description": "keras.engine.topology",
+        "isExtraImport": true,
+        "detail": "keras.engine.topology",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "keras.engine.topology",
+        "description": "keras.engine.topology",
+        "isExtraImport": true,
+        "detail": "keras.engine.topology",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "keras.engine.training",
+        "description": "keras.engine.training",
+        "isExtraImport": true,
+        "detail": "keras.engine.training",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "keras.engine.training",
+        "description": "keras.engine.training",
+        "isExtraImport": true,
+        "detail": "keras.engine.training",
+        "documentation": {}
+    },
+    {
+        "label": "Conv2D",
+        "importPath": "keras.layers.convolutional",
+        "description": "keras.layers.convolutional",
+        "isExtraImport": true,
+        "detail": "keras.layers.convolutional",
+        "documentation": {}
+    },
+    {
+        "label": "Conv2D",
+        "importPath": "keras.layers.convolutional",
+        "description": "keras.layers.convolutional",
+        "isExtraImport": true,
+        "detail": "keras.layers.convolutional",
+        "documentation": {}
+    },
+    {
+        "label": "Activation",
+        "importPath": "keras.layers.core",
+        "description": "keras.layers.core",
+        "isExtraImport": true,
+        "detail": "keras.layers.core",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers.core",
+        "description": "keras.layers.core",
+        "isExtraImport": true,
+        "detail": "keras.layers.core",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers.core",
+        "description": "keras.layers.core",
+        "isExtraImport": true,
+        "detail": "keras.layers.core",
+        "documentation": {}
+    },
+    {
+        "label": "Activation",
+        "importPath": "keras.layers.core",
+        "description": "keras.layers.core",
+        "isExtraImport": true,
+        "detail": "keras.layers.core",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers.core",
+        "description": "keras.layers.core",
+        "isExtraImport": true,
+        "detail": "keras.layers.core",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers.core",
+        "description": "keras.layers.core",
+        "isExtraImport": true,
+        "detail": "keras.layers.core",
+        "documentation": {}
+    },
+    {
+        "label": "Add",
+        "importPath": "keras.layers.merge",
+        "description": "keras.layers.merge",
+        "isExtraImport": true,
+        "detail": "keras.layers.merge",
+        "documentation": {}
+    },
+    {
+        "label": "Add",
+        "importPath": "keras.layers.merge",
+        "description": "keras.layers.merge",
+        "isExtraImport": true,
+        "detail": "keras.layers.merge",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "importPath": "keras.layers.normalization",
+        "description": "keras.layers.normalization",
+        "isExtraImport": true,
+        "detail": "keras.layers.normalization",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "importPath": "keras.layers.normalization",
+        "description": "keras.layers.normalization",
+        "isExtraImport": true,
+        "detail": "keras.layers.normalization",
+        "documentation": {}
+    },
+    {
+        "label": "l2",
+        "importPath": "keras.regularizers",
+        "description": "keras.regularizers",
+        "isExtraImport": true,
+        "detail": "keras.regularizers",
+        "documentation": {}
+    },
+    {
+        "label": "l2",
+        "importPath": "keras.regularizers",
+        "description": "keras.regularizers",
+        "isExtraImport": true,
+        "detail": "keras.regularizers",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModelAPI",
+        "importPath": "chess_zero.agent.api_chess",
+        "description": "chess_zero.agent.api_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.api_chess",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ProcessPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ProcessPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ProcessPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ProcessPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "chess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chess",
+        "description": "chess",
+        "detail": "chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "canon_input_planes",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "is_black_turn",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "testeval",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "importPath": "chess_zero.env.chess_env",
+        "description": "chess_zero.env.chess_env",
+        "isExtraImport": true,
+        "detail": "chess_zero.env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "chess.pgn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chess.pgn",
+        "description": "chess.pgn",
+        "detail": "chess.pgn",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "ujson",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ujson",
+        "description": "ujson",
+        "detail": "ujson",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "pyperclip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyperclip",
+        "description": "pyperclip",
+        "detail": "pyperclip",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "ChessPlayer",
+        "importPath": "chess_zero.agent.player_chess",
+        "description": "chess_zero.agent.player_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessPlayer",
+        "importPath": "chess_zero.agent.player_chess",
+        "description": "chess_zero.agent.player_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessPlayer",
+        "importPath": "chess_zero.agent.player_chess",
+        "description": "chess_zero.agent.player_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessPlayer",
+        "importPath": "chess_zero.agent.player_chess",
+        "description": "chess_zero.agent.player_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessPlayer",
+        "importPath": "chess_zero.agent.player_chess",
+        "description": "chess_zero.agent.player_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModel",
+        "importPath": "chess_zero.agent.model_chess",
+        "description": "chess_zero.agent.model_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.model_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModel",
+        "importPath": "chess_zero.agent.model_chess",
+        "description": "chess_zero.agent.model_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.model_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModel",
+        "importPath": "chess_zero.agent.model_chess",
+        "description": "chess_zero.agent.model_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.model_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModel",
+        "importPath": "chess_zero.agent.model_chess",
+        "description": "chess_zero.agent.model_chess",
+        "isExtraImport": true,
+        "detail": "chess_zero.agent.model_chess",
+        "documentation": {}
+    },
+    {
+        "label": "load_best_model_weight",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "save_as_best_model",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "load_best_model_weight",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "load_best_model_weight",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "load_best_model_weight",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "save_as_best_model",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "chess_zero.lib.model_helper",
+        "description": "chess_zero.lib.model_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_next_generation_model_dirs",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "pretty_print",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_game_data_filenames",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "read_game_data_from_file",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_next_generation_model_dirs",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_game_data_filenames",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "write_game_data_to_file",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "pretty_print",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "write_game_data_to_file",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "find_pgn_files",
+        "importPath": "chess_zero.lib.data_helper",
+        "description": "chess_zero.lib.data_helper",
+        "isExtraImport": true,
+        "detail": "chess_zero.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "shuffle",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Adam",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "TensorBoard",
+        "importPath": "keras.callbacks",
+        "description": "keras.callbacks",
+        "isExtraImport": true,
+        "detail": "keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "stacktracer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stacktracer",
+        "description": "stacktracer",
+        "detail": "stacktracer",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "highlight",
+        "importPath": "pygments",
+        "description": "pygments",
+        "isExtraImport": true,
+        "detail": "pygments",
+        "documentation": {}
+    },
+    {
+        "label": "HtmlFormatter",
+        "importPath": "pygments.formatters",
+        "description": "pygments.formatters",
+        "isExtraImport": true,
+        "detail": "pygments.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "PythonLexer",
+        "importPath": "pygments.lexers",
+        "description": "pygments.lexers",
+        "isExtraImport": true,
+        "detail": "pygments.lexers",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "util.state",
+        "description": "util.state",
+        "isExtraImport": true,
+        "detail": "util.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "util.state",
+        "description": "util.state",
+        "isExtraImport": true,
+        "detail": "util.state",
+        "documentation": {}
+    },
+    {
+        "label": "NN",
+        "importPath": "util.nn",
+        "description": "util.nn",
+        "isExtraImport": true,
+        "detail": "util.nn",
+        "documentation": {}
+    },
+    {
+        "label": "MCTS",
+        "importPath": "util.mcts",
+        "description": "util.mcts",
+        "isExtraImport": true,
+        "detail": "util.mcts",
+        "documentation": {}
+    },
+    {
+        "label": "keras.backend",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keras.backend",
+        "description": "keras.backend",
+        "detail": "keras.backend",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "keras.losses",
+        "description": "keras.losses",
+        "isExtraImport": true,
+        "detail": "keras.losses",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "build",
+        "importPath": "util.keras_model",
+        "description": "util.keras_model",
+        "isExtraImport": true,
+        "detail": "util.keras_model",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "util.keras_model",
+        "description": "util.keras_model",
+        "isExtraImport": true,
+        "detail": "util.keras_model",
+        "documentation": {}
+    },
+    {
+        "label": "import_module",
+        "importPath": "importlib",
+        "description": "importlib",
+        "isExtraImport": true,
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModelAPI",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.agent.api_chess",
+        "description": "chess_agent.src.chess_agent.agent.api_chess",
+        "peekOfCode": "class ChessModelAPI:\n    # noinspection PyUnusedLocal\n    def __init__(self, config: Config, agent_model):  # ChessModel\n        self.agent_model = agent_model\n        self.pipes = []\n    def start(self):\n        prediction_worker = Thread(target=self.predict_batch_worker, name=\"prediction_worker\")\n        prediction_worker.daemon = True\n        prediction_worker.start()\n    def get_pipe(self):",
+        "detail": "chess_agent.src.chess_agent.agent.api_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessModel",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.agent.model_chess",
+        "description": "chess_agent.src.chess_agent.agent.model_chess",
+        "peekOfCode": "class ChessModel:\n    def __init__(self, config: Config):\n        self.config = config\n        self.model = None  # type: Model\n        self.digest = None\n        self.api = None\n    def get_pipes(self, num = 1):\n        if self.api is None:\n            self.api = ChessModelAPI(self.config, self)\n            self.api.start()",
+        "detail": "chess_agent.src.chess_agent.agent.model_chess",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.model_chess",
+        "description": "chess_agent.src.chess_agent.agent.model_chess",
+        "peekOfCode": "logger = getLogger(__name__)\nclass ChessModel:\n    def __init__(self, config: Config):\n        self.config = config\n        self.model = None  # type: Model\n        self.digest = None\n        self.api = None\n    def get_pipes(self, num = 1):\n        if self.api is None:\n            self.api = ChessModelAPI(self.config, self)",
+        "detail": "chess_agent.src.chess_agent.agent.model_chess",
+        "documentation": {}
+    },
+    {
+        "label": "VisitStats",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "class VisitStats:\n\tdef __init__(self):\n\t\tself.a = defaultdict(ActionStats)\n\t\tself.sum_n = 0\nclass ActionStats:\n\tdef __init__(self):\n\t\tself.n = 0\n\t\tself.w = 0\n\t\tself.q = 0\nclass ChessPlayer:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ActionStats",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "class ActionStats:\n\tdef __init__(self):\n\t\tself.n = 0\n\t\tself.w = 0\n\t\tself.q = 0\nclass ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):\n\t\tself.moves = []\n\t\tself.config = config",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "ChessPlayer",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "class ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):\n\t\tself.moves = []\n\t\tself.config = config\n\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "state_key",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "def state_key(env: ChessEnv) -> str:\n\tfen = env.board.fen().rsplit(' ', 1) # drop the move clock\n\treturn fen[0]",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "logger = getLogger(__name__)\n# these are from AGZ nature paper\nclass VisitStats:\n\tdef __init__(self):\n\t\tself.a = defaultdict(ActionStats)\n\t\tself.sum_n = 0\nclass ActionStats:\n\tdef __init__(self):\n\t\tself.n = 0\n\t\tself.w = 0",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.a",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.a = defaultdict(ActionStats)\n\t\tself.sum_n = 0\nclass ActionStats:\n\tdef __init__(self):\n\t\tself.n = 0\n\t\tself.w = 0\n\t\tself.q = 0\nclass ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.sum_n",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.sum_n = 0\nclass ActionStats:\n\tdef __init__(self):\n\t\tself.n = 0\n\t\tself.w = 0\n\t\tself.q = 0\nclass ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):\n\t\tself.moves = []",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.n",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.n = 0\n\t\tself.w = 0\n\t\tself.q = 0\nclass ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):\n\t\tself.moves = []\n\t\tself.config = config\n\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.w",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.w = 0\n\t\tself.q = 0\nclass ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):\n\t\tself.moves = []\n\t\tself.config = config\n\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.q",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.q = 0\nclass ChessPlayer:\n\t# dot = False\n\tdef __init__(self, config: Config, pipes=None, play_config=None, dummy=False):\n\t\tself.moves = []\n\t\tself.config = config\n\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.moves",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.moves = []\n\t\tself.config = config\n\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:\n\t\t\treturn\n\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.config",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.config = config\n\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:\n\t\t\treturn\n\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.play_config",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.play_config = play_config or self.config.play\n\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:\n\t\t\treturn\n\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):\n\t\tself.tree = defaultdict(VisitStats)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.labels_n",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.labels_n = config.n_labels\n\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:\n\t\t\treturn\n\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):\n\t\tself.tree = defaultdict(VisitStats)\n\tdef deboog(self, env):",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.labels",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.labels = config.labels\n\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:\n\t\t\treturn\n\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):\n\t\tself.tree = defaultdict(VisitStats)\n\tdef deboog(self, env):\n\t\tprint(env.testeval())",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.move_lookup",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.move_lookup = {chess.Move.from_uci(move): i for move, i in zip(self.labels, range(self.labels_n))}\n\t\tif dummy:\n\t\t\treturn\n\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):\n\t\tself.tree = defaultdict(VisitStats)\n\tdef deboog(self, env):\n\t\tprint(env.testeval())\n\t\tstate = state_key(env)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.pipe_pool",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.pipe_pool = pipes\n\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):\n\t\tself.tree = defaultdict(VisitStats)\n\tdef deboog(self, env):\n\t\tprint(env.testeval())\n\t\tstate = state_key(env)\n\t\tmy_visit_stats = self.tree[state]\n\t\tstats = []\n\t\tfor action, a_s in my_visit_stats.a.items():",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.node_lock",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.node_lock = defaultdict(Lock)\n\tdef reset(self):\n\t\tself.tree = defaultdict(VisitStats)\n\tdef deboog(self, env):\n\t\tprint(env.testeval())\n\t\tstate = state_key(env)\n\t\tmy_visit_stats = self.tree[state]\n\t\tstats = []\n\t\tfor action, a_s in my_visit_stats.a.items():\n\t\t\tmoi = self.move_lookup[action]",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.tree",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tself.tree = defaultdict(VisitStats)\n\tdef deboog(self, env):\n\t\tprint(env.testeval())\n\t\tstate = state_key(env)\n\t\tmy_visit_stats = self.tree[state]\n\t\tstats = []\n\t\tfor action, a_s in my_visit_stats.a.items():\n\t\t\tmoi = self.move_lookup[action]\n\t\t\tstats.append(np.asarray([a_s.n, a_s.w, a_s.q, a_s.p, moi]))\n\t\tstats = np.asarray(stats)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstate",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstate = state_key(env)\n\t\tmy_visit_stats = self.tree[state]\n\t\tstats = []\n\t\tfor action, a_s in my_visit_stats.a.items():\n\t\t\tmoi = self.move_lookup[action]\n\t\t\tstats.append(np.asarray([a_s.n, a_s.w, a_s.q, a_s.p, moi]))\n\t\tstats = np.asarray(stats)\n\t\ta = stats[stats[:,0].argsort()[::-1]]\n\t\tfor s in a:\n\t\t\tprint(f'{self.labels[int(s[4])]:5}: '",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmy_visit_stats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tmy_visit_stats = self.tree[state]\n\t\tstats = []\n\t\tfor action, a_s in my_visit_stats.a.items():\n\t\t\tmoi = self.move_lookup[action]\n\t\t\tstats.append(np.asarray([a_s.n, a_s.w, a_s.q, a_s.p, moi]))\n\t\tstats = np.asarray(stats)\n\t\ta = stats[stats[:,0].argsort()[::-1]]\n\t\tfor s in a:\n\t\t\tprint(f'{self.labels[int(s[4])]:5}: '\n\t\t\t\t  f'n: {s[0]:3.0f} '",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstats = []\n\t\tfor action, a_s in my_visit_stats.a.items():\n\t\t\tmoi = self.move_lookup[action]\n\t\t\tstats.append(np.asarray([a_s.n, a_s.w, a_s.q, a_s.p, moi]))\n\t\tstats = np.asarray(stats)\n\t\ta = stats[stats[:,0].argsort()[::-1]]\n\t\tfor s in a:\n\t\t\tprint(f'{self.labels[int(s[4])]:5}: '\n\t\t\t\t  f'n: {s[0]:3.0f} '\n\t\t\t\t  f'w: {s[1]:7.3f} '",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmoi",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tmoi = self.move_lookup[action]\n\t\t\tstats.append(np.asarray([a_s.n, a_s.w, a_s.q, a_s.p, moi]))\n\t\tstats = np.asarray(stats)\n\t\ta = stats[stats[:,0].argsort()[::-1]]\n\t\tfor s in a:\n\t\t\tprint(f'{self.labels[int(s[4])]:5}: '\n\t\t\t\t  f'n: {s[0]:3.0f} '\n\t\t\t\t  f'w: {s[1]:7.3f} '\n\t\t\t\t  f'q: {s[2]:7.3f} '\n\t\t\t\t  f'p: {s[3]:7.5f}')",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstats = np.asarray(stats)\n\t\ta = stats[stats[:,0].argsort()[::-1]]\n\t\tfor s in a:\n\t\t\tprint(f'{self.labels[int(s[4])]:5}: '\n\t\t\t\t  f'n: {s[0]:3.0f} '\n\t\t\t\t  f'w: {s[1]:7.3f} '\n\t\t\t\t  f'q: {s[2]:7.3f} '\n\t\t\t\t  f'p: {s[3]:7.5f}')\n\tdef action(self, env, can_stop = True) -> str:\n\t\tself.reset()",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ta",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\ta = stats[stats[:,0].argsort()[::-1]]\n\t\tfor s in a:\n\t\t\tprint(f'{self.labels[int(s[4])]:5}: '\n\t\t\t\t  f'n: {s[0]:3.0f} '\n\t\t\t\t  f'w: {s[1]:7.3f} '\n\t\t\t\t  f'q: {s[2]:7.3f} '\n\t\t\t\t  f'p: {s[3]:7.5f}')\n\tdef action(self, env, can_stop = True) -> str:\n\t\tself.reset()\n\t\t# for tl in range(self.play_config.thinking_loop):",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpolicy",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tpolicy = self.calc_policy(env)\n\t\tmy_action = int(np.random.choice(range(self.labels_n), p = self.apply_temperature(policy, env.num_halfmoves)))\n\t\t#print(naked_value)\n\t\t#self.deboog(env)\n\t\tif can_stop and self.play_config.resign_threshold is not None and \\\n\t\t\t\t\t\troot_value <= self.play_config.resign_threshold \\\n\t\t\t\t\t\tand env.num_halfmoves > self.play_config.min_resign_turn:\n\t\t\t# noinspection PyTypeChecker\n\t\t\treturn None\n\t\telse:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmy_action",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tmy_action = int(np.random.choice(range(self.labels_n), p = self.apply_temperature(policy, env.num_halfmoves)))\n\t\t#print(naked_value)\n\t\t#self.deboog(env)\n\t\tif can_stop and self.play_config.resign_threshold is not None and \\\n\t\t\t\t\t\troot_value <= self.play_config.resign_threshold \\\n\t\t\t\t\t\tand env.num_halfmoves > self.play_config.min_resign_turn:\n\t\t\t# noinspection PyTypeChecker\n\t\t\treturn None\n\t\telse:\n\t\t\tself.moves.append([env.observation, list(policy)])",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfutures",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tfutures = []\n\t\twith ThreadPoolExecutor(max_workers=self.play_config.search_threads) as executor:\n\t\t\tfor _ in range(self.play_config.simulation_num_per_move):\n\t\t\t\tfutures.append(executor.submit(self.search_my_move,env=env.copy(),is_root_node=True))\n\t\tvals = [f.result() for f in futures]\n\t\t#vals=[self.search_my_move(env.copy(),True) for _ in range(self.play_config.simulation_num_per_move)]\n\t\treturn np.max(vals), vals[0] # vals[0] is kind of racy\n\tdef search_my_move(self, env: ChessEnv, is_root_node=False) -> float:\n\t\t\"\"\"\n\t\tQ, V is value for this Player(always white).",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tvals",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tvals = [f.result() for f in futures]\n\t\t#vals=[self.search_my_move(env.copy(),True) for _ in range(self.play_config.simulation_num_per_move)]\n\t\treturn np.max(vals), vals[0] # vals[0] is kind of racy\n\tdef search_my_move(self, env: ChessEnv, is_root_node=False) -> float:\n\t\t\"\"\"\n\t\tQ, V is value for this Player(always white).\n\t\tP is value for the player of next_player (black or white)\n\t\t:return: leaf value\n\t\t\"\"\"\n\t\tif env.done:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstate",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstate = state_key(env)\n\t\twith self.node_lock[state]:\n\t\t\tif state not in self.tree:\n\t\t\t\tleaf_p, leaf_v = self.expand_and_evaluate(env)\n\t\t\t\tself.tree[state].p = leaf_p\n\t\t\t\treturn leaf_v # I'm returning everything from the POV of side to move\n\t\t\t#assert state in self.tree\n\t\t\t# SELECT STEP\n\t\t\taction_t = self.select_action_q_and_u(env, is_root_node)\n\t\t\tvirtual_loss = self.play_config.virtual_loss",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tself.tree[state].p",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\t\tself.tree[state].p = leaf_p\n\t\t\t\treturn leaf_v # I'm returning everything from the POV of side to move\n\t\t\t#assert state in self.tree\n\t\t\t# SELECT STEP\n\t\t\taction_t = self.select_action_q_and_u(env, is_root_node)\n\t\t\tvirtual_loss = self.play_config.virtual_loss\n\t\t\tmy_visit_stats = self.tree[state]\n\t\t\tmy_stats = my_visit_stats.a[action_t]\n\t\t\tmy_visit_stats.sum_n += virtual_loss\n\t\t\tmy_stats.n += virtual_loss",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\taction_t",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\taction_t = self.select_action_q_and_u(env, is_root_node)\n\t\t\tvirtual_loss = self.play_config.virtual_loss\n\t\t\tmy_visit_stats = self.tree[state]\n\t\t\tmy_stats = my_visit_stats.a[action_t]\n\t\t\tmy_visit_stats.sum_n += virtual_loss\n\t\t\tmy_stats.n += virtual_loss\n\t\t\tmy_stats.w += -virtual_loss\n\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\tenv.step(action_t.uci())\n\t\tleaf_v = self.search_my_move(env)  # next move from enemy POV",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tvirtual_loss",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tvirtual_loss = self.play_config.virtual_loss\n\t\t\tmy_visit_stats = self.tree[state]\n\t\t\tmy_stats = my_visit_stats.a[action_t]\n\t\t\tmy_visit_stats.sum_n += virtual_loss\n\t\t\tmy_stats.n += virtual_loss\n\t\t\tmy_stats.w += -virtual_loss\n\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\tenv.step(action_t.uci())\n\t\tleaf_v = self.search_my_move(env)  # next move from enemy POV\n\t\tleaf_v = -leaf_v",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmy_visit_stats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tmy_visit_stats = self.tree[state]\n\t\t\tmy_stats = my_visit_stats.a[action_t]\n\t\t\tmy_visit_stats.sum_n += virtual_loss\n\t\t\tmy_stats.n += virtual_loss\n\t\t\tmy_stats.w += -virtual_loss\n\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\tenv.step(action_t.uci())\n\t\tleaf_v = self.search_my_move(env)  # next move from enemy POV\n\t\tleaf_v = -leaf_v\n\t\t# BACKUP STEP",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmy_stats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tmy_stats = my_visit_stats.a[action_t]\n\t\t\tmy_visit_stats.sum_n += virtual_loss\n\t\t\tmy_stats.n += virtual_loss\n\t\t\tmy_stats.w += -virtual_loss\n\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\tenv.step(action_t.uci())\n\t\tleaf_v = self.search_my_move(env)  # next move from enemy POV\n\t\tleaf_v = -leaf_v\n\t\t# BACKUP STEP\n\t\t# on returning search path",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmy_stats.q",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\tenv.step(action_t.uci())\n\t\tleaf_v = self.search_my_move(env)  # next move from enemy POV\n\t\tleaf_v = -leaf_v\n\t\t# BACKUP STEP\n\t\t# on returning search path\n\t\t# update: N, W, Q\n\t\twith self.node_lock[state]:\n\t\t\tmy_visit_stats.sum_n += -virtual_loss + 1\n\t\t\tmy_stats.n += -virtual_loss + 1",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tleaf_v",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tleaf_v = self.search_my_move(env)  # next move from enemy POV\n\t\tleaf_v = -leaf_v\n\t\t# BACKUP STEP\n\t\t# on returning search path\n\t\t# update: N, W, Q\n\t\twith self.node_lock[state]:\n\t\t\tmy_visit_stats.sum_n += -virtual_loss + 1\n\t\t\tmy_stats.n += -virtual_loss + 1\n\t\t\tmy_stats.w += virtual_loss + leaf_v\n\t\t\tmy_stats.q = my_stats.w / my_stats.n",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tleaf_v",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tleaf_v = -leaf_v\n\t\t# BACKUP STEP\n\t\t# on returning search path\n\t\t# update: N, W, Q\n\t\twith self.node_lock[state]:\n\t\t\tmy_visit_stats.sum_n += -virtual_loss + 1\n\t\t\tmy_stats.n += -virtual_loss + 1\n\t\t\tmy_stats.w += virtual_loss + leaf_v\n\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\treturn leaf_v",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmy_stats.q",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tmy_stats.q = my_stats.w / my_stats.n\n\t\treturn leaf_v\n\tdef expand_and_evaluate(self, env) -> (np.ndarray, float):\n\t\t\"\"\" expand new leaf, this is called only once per state\n\t\tthis is called with state locked\n\t\tinsert P(a|s), return leaf_v\n\t\t\"\"\"\n\t\tstate_planes = env.canonical_input_planes()\n\t\tleaf_p, leaf_v = self.predict(state_planes)\n\t\t# these are canonical policy and value (i.e. side to move is \"white\")",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstate_planes",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstate_planes = env.canonical_input_planes()\n\t\tleaf_p, leaf_v = self.predict(state_planes)\n\t\t# these are canonical policy and value (i.e. side to move is \"white\")\n\t\tif not env.white_to_move:\n\t\t\tleaf_p = Config.flip_policy(leaf_p) # get it back to python-chess form\n\t\t#np.testing.assert_array_equal(Config.flip_policy(Config.flip_policy(leaf_p)), leaf_p)\n\t\treturn leaf_p, leaf_v\n\tdef predict(self, state_planes):\n\t\tpipe = self.pipe_pool.pop()\n\t\tpipe.send(state_planes)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tleaf_p",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tleaf_p = Config.flip_policy(leaf_p) # get it back to python-chess form\n\t\t#np.testing.assert_array_equal(Config.flip_policy(Config.flip_policy(leaf_p)), leaf_p)\n\t\treturn leaf_p, leaf_v\n\tdef predict(self, state_planes):\n\t\tpipe = self.pipe_pool.pop()\n\t\tpipe.send(state_planes)\n\t\tret = pipe.recv()\n\t\tself.pipe_pool.append(pipe)\n\t\treturn ret\n\t#@profile",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpipe",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tpipe = self.pipe_pool.pop()\n\t\tpipe.send(state_planes)\n\t\tret = pipe.recv()\n\t\tself.pipe_pool.append(pipe)\n\t\treturn ret\n\t#@profile\n\tdef select_action_q_and_u(self, env, is_root_node) -> chess.Move:\n\t\t# this method is called with state locked\n\t\tstate = state_key(env)\n\t\tmy_visitstats = self.tree[state]",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tret",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tret = pipe.recv()\n\t\tself.pipe_pool.append(pipe)\n\t\treturn ret\n\t#@profile\n\tdef select_action_q_and_u(self, env, is_root_node) -> chess.Move:\n\t\t# this method is called with state locked\n\t\tstate = state_key(env)\n\t\tmy_visitstats = self.tree[state]\n\t\tif my_visitstats.p is not None: #push p to edges\n\t\t\ttot_p = 1e-8",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstate",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstate = state_key(env)\n\t\tmy_visitstats = self.tree[state]\n\t\tif my_visitstats.p is not None: #push p to edges\n\t\t\ttot_p = 1e-8\n\t\t\tfor mov in env.board.legal_moves:\n\t\t\t\tmov_p = my_visitstats.p[self.move_lookup[mov]]\n\t\t\t\tmy_visitstats.a[mov].p = mov_p\n\t\t\t\ttot_p += mov_p\n\t\t\tfor a_s in my_visitstats.a.values():\n\t\t\t\ta_s.p /= tot_p",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmy_visitstats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tmy_visitstats = self.tree[state]\n\t\tif my_visitstats.p is not None: #push p to edges\n\t\t\ttot_p = 1e-8\n\t\t\tfor mov in env.board.legal_moves:\n\t\t\t\tmov_p = my_visitstats.p[self.move_lookup[mov]]\n\t\t\t\tmy_visitstats.a[mov].p = mov_p\n\t\t\t\ttot_p += mov_p\n\t\t\tfor a_s in my_visitstats.a.values():\n\t\t\t\ta_s.p /= tot_p\n\t\t\tmy_visitstats.p = None",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\ttot_p",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\ttot_p = 1e-8\n\t\t\tfor mov in env.board.legal_moves:\n\t\t\t\tmov_p = my_visitstats.p[self.move_lookup[mov]]\n\t\t\t\tmy_visitstats.a[mov].p = mov_p\n\t\t\t\ttot_p += mov_p\n\t\t\tfor a_s in my_visitstats.a.values():\n\t\t\t\ta_s.p /= tot_p\n\t\t\tmy_visitstats.p = None\n\t\txx_ = np.sqrt(my_visitstats.sum_n + 1)  # sqrt of sum(N(s, b); for all b)\n\t\te = self.play_config.noise_eps",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tmov_p",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\t\tmov_p = my_visitstats.p[self.move_lookup[mov]]\n\t\t\t\tmy_visitstats.a[mov].p = mov_p\n\t\t\t\ttot_p += mov_p\n\t\t\tfor a_s in my_visitstats.a.values():\n\t\t\t\ta_s.p /= tot_p\n\t\t\tmy_visitstats.p = None\n\t\txx_ = np.sqrt(my_visitstats.sum_n + 1)  # sqrt of sum(N(s, b); for all b)\n\t\te = self.play_config.noise_eps\n\t\tc_puct = self.play_config.c_puct\n\t\tdir_alpha = self.play_config.dirichlet_alpha",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tmy_visitstats.a[mov].p",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\t\tmy_visitstats.a[mov].p = mov_p\n\t\t\t\ttot_p += mov_p\n\t\t\tfor a_s in my_visitstats.a.values():\n\t\t\t\ta_s.p /= tot_p\n\t\t\tmy_visitstats.p = None\n\t\txx_ = np.sqrt(my_visitstats.sum_n + 1)  # sqrt of sum(N(s, b); for all b)\n\t\te = self.play_config.noise_eps\n\t\tc_puct = self.play_config.c_puct\n\t\tdir_alpha = self.play_config.dirichlet_alpha\n\t\tbest_s = -999",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmy_visitstats.p",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tmy_visitstats.p = None\n\t\txx_ = np.sqrt(my_visitstats.sum_n + 1)  # sqrt of sum(N(s, b); for all b)\n\t\te = self.play_config.noise_eps\n\t\tc_puct = self.play_config.c_puct\n\t\tdir_alpha = self.play_config.dirichlet_alpha\n\t\tbest_s = -999\n\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\txx_",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\txx_ = np.sqrt(my_visitstats.sum_n + 1)  # sqrt of sum(N(s, b); for all b)\n\t\te = self.play_config.noise_eps\n\t\tc_puct = self.play_config.c_puct\n\t\tdir_alpha = self.play_config.dirichlet_alpha\n\t\tbest_s = -999\n\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\te",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\te = self.play_config.noise_eps\n\t\tc_puct = self.play_config.c_puct\n\t\tdir_alpha = self.play_config.dirichlet_alpha\n\t\tbest_s = -999\n\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tc_puct",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tc_puct = self.play_config.c_puct\n\t\tdir_alpha = self.play_config.dirichlet_alpha\n\t\tbest_s = -999\n\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdir_alpha",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tdir_alpha = self.play_config.dirichlet_alpha\n\t\tbest_s = -999\n\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:\n\t\t\t\tbest_s = b",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tbest_s",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tbest_s = -999\n\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:\n\t\t\t\tbest_s = b\n\t\t\t\tbest_a = action",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tbest_a",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tbest_a = None\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:\n\t\t\t\tbest_s = b\n\t\t\t\tbest_a = action\n\t\treturn best_a",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tp_",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tp_ = a_s.p\n\t\t\tif is_root_node:\n\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:\n\t\t\t\tbest_s = b\n\t\t\t\tbest_a = action\n\t\treturn best_a\n\tdef apply_temperature(self, policy, turn):\n\t\ttau = np.power(self.play_config.tau_decay_rate, turn + 1)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tp_",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\t\tp_ = (1-e) * p_ + e * np.random.dirichlet([dir_alpha])\n\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:\n\t\t\t\tbest_s = b\n\t\t\t\tbest_a = action\n\t\treturn best_a\n\tdef apply_temperature(self, policy, turn):\n\t\ttau = np.power(self.play_config.tau_decay_rate, turn + 1)\n\t\tif tau < 0.1:\n\t\t\ttau = 0",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tb",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tb = a_s.q + c_puct * p_ * xx_ / (1 + a_s.n)\n\t\t\tif b > best_s:\n\t\t\t\tbest_s = b\n\t\t\t\tbest_a = action\n\t\treturn best_a\n\tdef apply_temperature(self, policy, turn):\n\t\ttau = np.power(self.play_config.tau_decay_rate, turn + 1)\n\t\tif tau < 0.1:\n\t\t\ttau = 0\n\t\tif tau == 0:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tbest_s",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\t\tbest_s = b\n\t\t\t\tbest_a = action\n\t\treturn best_a\n\tdef apply_temperature(self, policy, turn):\n\t\ttau = np.power(self.play_config.tau_decay_rate, turn + 1)\n\t\tif tau < 0.1:\n\t\t\ttau = 0\n\t\tif tau == 0:\n\t\t\taction = np.argmax(policy)\n\t\t\tret = np.zeros(self.labels_n)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tbest_a",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\t\tbest_a = action\n\t\treturn best_a\n\tdef apply_temperature(self, policy, turn):\n\t\ttau = np.power(self.play_config.tau_decay_rate, turn + 1)\n\t\tif tau < 0.1:\n\t\t\ttau = 0\n\t\tif tau == 0:\n\t\t\taction = np.argmax(policy)\n\t\t\tret = np.zeros(self.labels_n)\n\t\t\tret[action] = 1.0",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttau",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\ttau = np.power(self.play_config.tau_decay_rate, turn + 1)\n\t\tif tau < 0.1:\n\t\t\ttau = 0\n\t\tif tau == 0:\n\t\t\taction = np.argmax(policy)\n\t\t\tret = np.zeros(self.labels_n)\n\t\t\tret[action] = 1.0\n\t\t\treturn ret\n\t\telse:\n\t\t\tret = np.power(policy, 1/tau)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\ttau",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\ttau = 0\n\t\tif tau == 0:\n\t\t\taction = np.argmax(policy)\n\t\t\tret = np.zeros(self.labels_n)\n\t\t\tret[action] = 1.0\n\t\t\treturn ret\n\t\telse:\n\t\t\tret = np.power(policy, 1/tau)\n\t\t\tret /= np.sum(ret)\n\t\t\treturn ret",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\taction",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\taction = np.argmax(policy)\n\t\t\tret = np.zeros(self.labels_n)\n\t\t\tret[action] = 1.0\n\t\t\treturn ret\n\t\telse:\n\t\t\tret = np.power(policy, 1/tau)\n\t\t\tret /= np.sum(ret)\n\t\t\treturn ret\n\tdef calc_policy(self, env):\n\t\t\"\"\"calc π(a|s0)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tret",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tret = np.zeros(self.labels_n)\n\t\t\tret[action] = 1.0\n\t\t\treturn ret\n\t\telse:\n\t\t\tret = np.power(policy, 1/tau)\n\t\t\tret /= np.sum(ret)\n\t\t\treturn ret\n\tdef calc_policy(self, env):\n\t\t\"\"\"calc π(a|s0)\n\t\t:return:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tret[action]",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tret[action] = 1.0\n\t\t\treturn ret\n\t\telse:\n\t\t\tret = np.power(policy, 1/tau)\n\t\t\tret /= np.sum(ret)\n\t\t\treturn ret\n\tdef calc_policy(self, env):\n\t\t\"\"\"calc π(a|s0)\n\t\t:return:\n\t\t\"\"\"",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tret",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tret = np.power(policy, 1/tau)\n\t\t\tret /= np.sum(ret)\n\t\t\treturn ret\n\tdef calc_policy(self, env):\n\t\t\"\"\"calc π(a|s0)\n\t\t:return:\n\t\t\"\"\"\n\t\tstate = state_key(env)\n\t\tmy_visitstats = self.tree[state]\n\t\tpolicy = np.zeros(self.labels_n)",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstate",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tstate = state_key(env)\n\t\tmy_visitstats = self.tree[state]\n\t\tpolicy = np.zeros(self.labels_n)\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tpolicy[self.move_lookup[action]] = a_s.n\n\t\tpolicy /= np.sum(policy)\n\t\treturn policy\n\tdef sl_action(self, observation, my_action, weight=1):\n\t\tpolicy = np.zeros(self.labels_n)\n\t\tk = self.move_lookup[chess.Move.from_uci(my_action)]",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmy_visitstats",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tmy_visitstats = self.tree[state]\n\t\tpolicy = np.zeros(self.labels_n)\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tpolicy[self.move_lookup[action]] = a_s.n\n\t\tpolicy /= np.sum(policy)\n\t\treturn policy\n\tdef sl_action(self, observation, my_action, weight=1):\n\t\tpolicy = np.zeros(self.labels_n)\n\t\tk = self.move_lookup[chess.Move.from_uci(my_action)]\n\t\tpolicy[k] = weight",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpolicy",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tpolicy = np.zeros(self.labels_n)\n\t\tfor action, a_s in my_visitstats.a.items():\n\t\t\tpolicy[self.move_lookup[action]] = a_s.n\n\t\tpolicy /= np.sum(policy)\n\t\treturn policy\n\tdef sl_action(self, observation, my_action, weight=1):\n\t\tpolicy = np.zeros(self.labels_n)\n\t\tk = self.move_lookup[chess.Move.from_uci(my_action)]\n\t\tpolicy[k] = weight\n\t\tself.moves.append([observation, list(policy)])",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tpolicy[self.move_lookup[action]]",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\t\tpolicy[self.move_lookup[action]] = a_s.n\n\t\tpolicy /= np.sum(policy)\n\t\treturn policy\n\tdef sl_action(self, observation, my_action, weight=1):\n\t\tpolicy = np.zeros(self.labels_n)\n\t\tk = self.move_lookup[chess.Move.from_uci(my_action)]\n\t\tpolicy[k] = weight\n\t\tself.moves.append([observation, list(policy)])\n\t\treturn my_action\n\tdef finish_game(self, z):",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpolicy",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tpolicy = np.zeros(self.labels_n)\n\t\tk = self.move_lookup[chess.Move.from_uci(my_action)]\n\t\tpolicy[k] = weight\n\t\tself.moves.append([observation, list(policy)])\n\t\treturn my_action\n\tdef finish_game(self, z):\n\t\t\"\"\"\n\t\t:param self:\n\t\t:param z: win=1, lose=-1, draw=0\n\t\t:return:",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tk",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tk = self.move_lookup[chess.Move.from_uci(my_action)]\n\t\tpolicy[k] = weight\n\t\tself.moves.append([observation, list(policy)])\n\t\treturn my_action\n\tdef finish_game(self, z):\n\t\t\"\"\"\n\t\t:param self:\n\t\t:param z: win=1, lose=-1, draw=0\n\t\t:return:\n\t\t\"\"\"",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpolicy[k]",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\t\tpolicy[k] = weight\n\t\tself.moves.append([observation, list(policy)])\n\t\treturn my_action\n\tdef finish_game(self, z):\n\t\t\"\"\"\n\t\t:param self:\n\t\t:param z: win=1, lose=-1, draw=0\n\t\t:return:\n\t\t\"\"\"\n\t\tfor move in self.moves:  # add this game winner result to all past moves.",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "\tfen",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.agent.player_chess",
+        "description": "chess_agent.src.chess_agent.agent.player_chess",
+        "peekOfCode": "\tfen = env.board.fen().rsplit(' ', 1) # drop the move clock\n\treturn fen[0]",
+        "detail": "chess_agent.src.chess_agent.agent.player_chess",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.distributed",
+        "description": "chess_agent.src.chess_agent.configs.distributed",
+        "peekOfCode": "class EvaluateConfig:\n    def __init__(self):\n        self.game_num = 400\n        self.replace_rate = 0.55\n        self.play_config = PlayConfig()\n        self.play_config.simulation_num_per_move = 200\n        self.play_config.thinking_loop = 1\n        self.play_config.c_puct = 1\n        self.play_config.change_tau_turn = 0\n        self.play_config.noise_eps = 0",
+        "detail": "chess_agent.src.chess_agent.configs.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "PlayDataConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.distributed",
+        "description": "chess_agent.src.chess_agent.configs.distributed",
+        "peekOfCode": "class PlayDataConfig:\n    def __init__(self):\n        self.sl_nb_game_in_file = 100\n        self.nb_game_in_file = 100\n        self.max_file_num = 200\nclass PlayConfig:\n    def __init__(self):\n        self.simulation_num_per_move = 200\n        self.thinking_loop = 1\n        self.logging_thinking = False",
+        "detail": "chess_agent.src.chess_agent.configs.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "PlayConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.distributed",
+        "description": "chess_agent.src.chess_agent.configs.distributed",
+        "peekOfCode": "class PlayConfig:\n    def __init__(self):\n        self.simulation_num_per_move = 200\n        self.thinking_loop = 1\n        self.logging_thinking = False\n        self.c_puct = 1.5\n        self.noise_eps = 0.25\n        self.dirichlet_alpha = 0.3\n        self.change_tau_turn = 10\n        self.virtual_loss = 3",
+        "detail": "chess_agent.src.chess_agent.configs.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.distributed",
+        "description": "chess_agent.src.chess_agent.configs.distributed",
+        "peekOfCode": "class TrainerConfig:\n    def __init__(self):\n        self.batch_size = 2048\n        self.epoch_to_checkpoint = 1\n        self.start_total_steps = 0\n        self.save_model_steps = 2000\n        self.load_data_steps = 1000\n        self.loss_weights = [1.0, 1.0] # prevent value overfit in SL\nclass ModelConfig:\n    cnn_filter_num = 256",
+        "detail": "chess_agent.src.chess_agent.configs.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.distributed",
+        "description": "chess_agent.src.chess_agent.configs.distributed",
+        "peekOfCode": "class ModelConfig:\n    cnn_filter_num = 256\n    cnn_filter_size = 3\n    res_layer_num = 7\n    l2_reg = 1e-4\n    value_fc_size = 256\n    distributed = True",
+        "detail": "chess_agent.src.chess_agent.configs.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.mini",
+        "description": "chess_agent.src.chess_agent.configs.mini",
+        "peekOfCode": "class EvaluateConfig:\n    def __init__(self):\n        self.vram_frac = 1.0\n        self.game_num = 50\n        self.replace_rate = 0.55\n        self.play_config = PlayConfig()\n        self.play_config.simulation_num_per_move = 200\n        self.play_config.thinking_loop = 1\n        self.play_config.c_puct = 1 # lower  = prefer mean action value\n        self.play_config.tau_decay_rate = 0.6 # I need a better distribution...",
+        "detail": "chess_agent.src.chess_agent.configs.mini",
+        "documentation": {}
+    },
+    {
+        "label": "PlayDataConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.mini",
+        "description": "chess_agent.src.chess_agent.configs.mini",
+        "peekOfCode": "class PlayDataConfig:\n    def __init__(self):\n        self.min_elo_policy =  500 # 0 weight\n        self.max_elo_policy = 1800 # 1 weight\n        self.sl_nb_game_in_file = 250\n        self.nb_game_in_file = 50\n        self.max_file_num = 150\nclass PlayConfig:\n    def __init__(self):\n        self.max_processes = 3",
+        "detail": "chess_agent.src.chess_agent.configs.mini",
+        "documentation": {}
+    },
+    {
+        "label": "PlayConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.mini",
+        "description": "chess_agent.src.chess_agent.configs.mini",
+        "peekOfCode": "class PlayConfig:\n    def __init__(self):\n        self.max_processes = 3\n        self.search_threads = 16\n        self.vram_frac = 1.0\n        self.simulation_num_per_move = 100\n        self.thinking_loop = 1\n        self.logging_thinking = False\n        self.c_puct = 1.5\n        self.noise_eps = 0.25",
+        "detail": "chess_agent.src.chess_agent.configs.mini",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.mini",
+        "description": "chess_agent.src.chess_agent.configs.mini",
+        "peekOfCode": "class TrainerConfig:\n    def __init__(self):\n        self.min_data_size_to_learn = 0\n        self.cleaning_processes = 5 # RAM explosion...\n        self.vram_frac = 1.0\n        self.batch_size = 384 # tune this to your gpu memory\n        self.epoch_to_checkpoint = 1\n        self.dataset_size = 100000\n        self.start_total_steps = 0\n        self.save_model_steps = 25",
+        "detail": "chess_agent.src.chess_agent.configs.mini",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.mini",
+        "description": "chess_agent.src.chess_agent.configs.mini",
+        "peekOfCode": "class ModelConfig:\n    cnn_filter_num = 256\n    cnn_first_filter_size = 5\n    cnn_filter_size = 3\n    res_layer_num = 7\n    l2_reg = 1e-4 # GO TO JSON TO SET THIS!!!! I don't have much worry for overfitting with only 1-2 epochs/dataset\n    value_fc_size = 256\n    distributed = False\n    input_depth = 18",
+        "detail": "chess_agent.src.chess_agent.configs.mini",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.normal",
+        "description": "chess_agent.src.chess_agent.configs.normal",
+        "peekOfCode": "class EvaluateConfig:\n    def __init__(self):\n        self.game_num = 400\n        self.replace_rate = 0.55\n        self.play_config = PlayConfig()\n        self.play_config.simulation_num_per_move = 200\n        self.play_config.thinking_loop = 1\n        self.play_config.c_puct = 1\n        self.play_config.change_tau_turn = 0\n        self.play_config.noise_eps = 0",
+        "detail": "chess_agent.src.chess_agent.configs.normal",
+        "documentation": {}
+    },
+    {
+        "label": "PlayDataConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.normal",
+        "description": "chess_agent.src.chess_agent.configs.normal",
+        "peekOfCode": "class PlayDataConfig:\n    def __init__(self):\n        self.sl_nb_game_in_file = 100\n        self.nb_game_in_file = 100\n        self.max_file_num = 200\nclass PlayConfig:\n    def __init__(self):\n        self.simulation_num_per_move = 200\n        self.thinking_loop = 1\n        self.logging_thinking = False",
+        "detail": "chess_agent.src.chess_agent.configs.normal",
+        "documentation": {}
+    },
+    {
+        "label": "PlayConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.normal",
+        "description": "chess_agent.src.chess_agent.configs.normal",
+        "peekOfCode": "class PlayConfig:\n    def __init__(self):\n        self.simulation_num_per_move = 200\n        self.thinking_loop = 1\n        self.logging_thinking = False\n        self.c_puct = 1.5\n        self.noise_eps = 0.25\n        self.dirichlet_alpha = 0.3\n        self.change_tau_turn = 10\n        self.virtual_loss = 3",
+        "detail": "chess_agent.src.chess_agent.configs.normal",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.normal",
+        "description": "chess_agent.src.chess_agent.configs.normal",
+        "peekOfCode": "class TrainerConfig:\n    def __init__(self):\n        self.batch_size = 2048\n        self.epoch_to_checkpoint = 1\n        self.start_total_steps = 0\n        self.save_model_steps = 2000\n        self.load_data_steps = 1000\n        self.loss_weights = [1.0, 1.0] # prevent value overfit in SL\nclass ModelConfig:\n    cnn_filter_num = 256",
+        "detail": "chess_agent.src.chess_agent.configs.normal",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.configs.normal",
+        "description": "chess_agent.src.chess_agent.configs.normal",
+        "peekOfCode": "class ModelConfig:\n    cnn_filter_num = 256\n    cnn_filter_size = 3\n    res_layer_num = 7\n    l2_reg = 1e-4\n    value_fc_size = 256\n    distributed = False",
+        "detail": "chess_agent.src.chess_agent.configs.normal",
+        "documentation": {}
+    },
+    {
+        "label": "ChessEnv",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "class ChessEnv:\n    def __init__(self):\n        self.board = None\n        self.num_halfmoves = 0\n        self.winner = None  # type: Winner\n        self.resigned = False\n        self.result = None\n    def reset(self):\n        self.board = chess.Board()\n        self.num_halfmoves = 0",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "testeval",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def testeval(fen, absolute = False) -> float:\n    piece_vals = {'K': 3, 'Q': 14, 'R': 5,'B': 3.25,'N': 3,'P': 1} # somehow it doesn't know how to keep its queen\n    ans = 0.0\n    tot = 0\n    for c in fen.split(' ')[0]:\n        if not c.isalpha():\n            continue\n        #assert c.upper() in piece_vals\n        if c.isupper():\n            ans += piece_vals[c]",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "check_current_planes",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def check_current_planes(realfen, planes):\n    cur = planes[0:12]\n    assert cur.shape == (12, 8, 8)\n    fakefen = [\"1\"] * 64\n    for i in range(12):\n        for rank in range(8):\n            for file in range(8):\n                if cur[i][rank][file] == 1:\n                    assert fakefen[rank * 8 + file] == '1'\n                    fakefen[rank * 8 + file] = pieces_order[i]",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "canon_input_planes",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def canon_input_planes(fen):\n    fen = maybe_flip_fen(fen, is_black_turn(fen))\n    return all_input_planes(fen)\ndef all_input_planes(fen):\n    current_aux_planes = aux_planes(fen)\n    history_both = to_planes(fen)\n    ret = np.vstack((history_both, current_aux_planes))\n    assert ret.shape == (18, 8, 8)\n    return ret\ndef maybe_flip_fen(fen, flip = False):",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "all_input_planes",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def all_input_planes(fen):\n    current_aux_planes = aux_planes(fen)\n    history_both = to_planes(fen)\n    ret = np.vstack((history_both, current_aux_planes))\n    assert ret.shape == (18, 8, 8)\n    return ret\ndef maybe_flip_fen(fen, flip = False):\n    if not flip:\n        return fen\n    foo = fen.split(' ')",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "maybe_flip_fen",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def maybe_flip_fen(fen, flip = False):\n    if not flip:\n        return fen\n    foo = fen.split(' ')\n    rows = foo[0].split('/')\n    def swapcase(a):\n        if a.isalpha():\n            return a.lower() if a.isupper() else a.upper()\n        return a\n    def swapall(aa):",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "aux_planes",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def aux_planes(fen):\n    foo = fen.split(' ')\n    en_passant = np.zeros((8, 8), dtype=np.float32)\n    if foo[3] != '-':\n        eps = alg_to_coord(foo[3])\n        en_passant[eps[0]][eps[1]] = 1\n    fifty_move_count = int(foo[4])\n    fifty_move = np.full((8,8), fifty_move_count, dtype=np.float32)\n    castling = foo[2]\n    auxiliary_planes = [np.full((8,8), int('K' in castling), dtype=np.float32),",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "alg_to_coord",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def alg_to_coord(alg):\n    rank = 8 - int(alg[1])        # 0-7\n    file = ord(alg[0]) - ord('a') # 0-7\n    return rank, file\ndef coord_to_alg(coord):\n    letter = chr(ord('a') + coord[1])\n    number = str(8 - coord[0])\n    return letter + number\ndef to_planes(fen):\n    board_state = replace_tags_board(fen)",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "coord_to_alg",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def coord_to_alg(coord):\n    letter = chr(ord('a') + coord[1])\n    number = str(8 - coord[0])\n    return letter + number\ndef to_planes(fen):\n    board_state = replace_tags_board(fen)\n    pieces_both = np.zeros(shape = (12, 8, 8), dtype=np.float32)\n    for rank in range(8):\n        for file in range(8):\n            v = board_state[rank * 8 + file]",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "to_planes",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def to_planes(fen):\n    board_state = replace_tags_board(fen)\n    pieces_both = np.zeros(shape = (12, 8, 8), dtype=np.float32)\n    for rank in range(8):\n        for file in range(8):\n            v = board_state[rank * 8 + file]\n            if v.isalpha():\n                pieces_both[ind[v]][rank][file] = 1\n    assert pieces_both.shape == (12, 8, 8)\n    return pieces_both",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "replace_tags_board",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def replace_tags_board(board_san):\n    board_san = board_san.split(\" \")[0]\n    board_san = board_san.replace(\"2\", \"11\")\n    board_san = board_san.replace(\"3\", \"111\")\n    board_san = board_san.replace(\"4\", \"1111\")\n    board_san = board_san.replace(\"5\", \"11111\")\n    board_san = board_san.replace(\"6\", \"111111\")\n    board_san = board_san.replace(\"7\", \"1111111\")\n    board_san = board_san.replace(\"8\", \"11111111\")\n    return board_san.replace(\"/\", \"\")",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "is_black_turn",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "def is_black_turn(fen):\n    return fen.split(\" \")[1] == 'b'",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "logger = getLogger(__name__)\n# noinspection PyArgumentList\nWinner = enum.Enum(\"Winner\", \"black white draw\")\n# input planes\n# noinspection SpellCheckingInspection\npieces_order = 'KQRBNPkqrbnp' # 12x8x8\ncastling_order = 'KQkq'       # 4x8x8\n# fifty-move-rule             # 1x8x8\n# en en_passant               # 1x8x8\nind = {pieces_order[i]: i for i in range(12)}",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "Winner = enum.Enum(\"Winner\", \"black white draw\")\n# input planes\n# noinspection SpellCheckingInspection\npieces_order = 'KQRBNPkqrbnp' # 12x8x8\ncastling_order = 'KQkq'       # 4x8x8\n# fifty-move-rule             # 1x8x8\n# en en_passant               # 1x8x8\nind = {pieces_order[i]: i for i in range(12)}\nclass ChessEnv:\n    def __init__(self):",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "pieces_order",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "pieces_order = 'KQRBNPkqrbnp' # 12x8x8\ncastling_order = 'KQkq'       # 4x8x8\n# fifty-move-rule             # 1x8x8\n# en en_passant               # 1x8x8\nind = {pieces_order[i]: i for i in range(12)}\nclass ChessEnv:\n    def __init__(self):\n        self.board = None\n        self.num_halfmoves = 0\n        self.winner = None  # type: Winner",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "castling_order",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "castling_order = 'KQkq'       # 4x8x8\n# fifty-move-rule             # 1x8x8\n# en en_passant               # 1x8x8\nind = {pieces_order[i]: i for i in range(12)}\nclass ChessEnv:\n    def __init__(self):\n        self.board = None\n        self.num_halfmoves = 0\n        self.winner = None  # type: Winner\n        self.resigned = False",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "ind",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.game_env.chess_env",
+        "description": "chess_agent.src.chess_agent.game_env.chess_env",
+        "peekOfCode": "ind = {pieces_order[i]: i for i in range(12)}\nclass ChessEnv:\n    def __init__(self):\n        self.board = None\n        self.num_halfmoves = 0\n        self.winner = None  # type: Winner\n        self.resigned = False\n        self.result = None\n    def reset(self):\n        self.board = chess.Board()",
+        "detail": "chess_agent.src.chess_agent.game_env.chess_env",
+        "documentation": {}
+    },
+    {
+        "label": "pretty_print",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "def pretty_print(env, colors):\n    new_pgn = open(\"test3.pgn\", \"at\")\n    game = chess.pgn.Game.from_board(env.board)\n    game.headers[\"Result\"] = env.result\n    game.headers[\"White\"], game.headers[\"Black\"] = colors\n    game.headers[\"Date\"] = datetime.now().strftime(\"%Y.%m.%d\")\n    new_pgn.write(str(game) + \"\\n\\n\")\n    new_pgn.close()\n    pyperclip.copy(env.board.fen())\ndef find_pgn_files(directory, pattern='*.pgn'):",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "find_pgn_files",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "def find_pgn_files(directory, pattern='*.pgn'):\n    dir_pattern = os.path.join(directory, pattern)\n    files = list(sorted(glob(dir_pattern)))\n    return files\ndef get_game_data_filenames(rc: ResourceConfig):\n    pattern = os.path.join(rc.play_data_dir, rc.play_data_filename_tmpl % \"*\")\n    files = list(sorted(glob(pattern)))\n    return files\ndef get_next_generation_model_dirs(rc: ResourceConfig):\n    dir_pattern = os.path.join(rc.next_generation_model_dir, rc.next_generation_model_dirname_tmpl % \"*\")",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_game_data_filenames",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "def get_game_data_filenames(rc: ResourceConfig):\n    pattern = os.path.join(rc.play_data_dir, rc.play_data_filename_tmpl % \"*\")\n    files = list(sorted(glob(pattern)))\n    return files\ndef get_next_generation_model_dirs(rc: ResourceConfig):\n    dir_pattern = os.path.join(rc.next_generation_model_dir, rc.next_generation_model_dirname_tmpl % \"*\")\n    dirs = list(sorted(glob(dir_pattern)))\n    return dirs\ndef write_game_data_to_file(path, data):\n    try:",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_next_generation_model_dirs",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "def get_next_generation_model_dirs(rc: ResourceConfig):\n    dir_pattern = os.path.join(rc.next_generation_model_dir, rc.next_generation_model_dirname_tmpl % \"*\")\n    dirs = list(sorted(glob(dir_pattern)))\n    return dirs\ndef write_game_data_to_file(path, data):\n    try:\n        with open(path, \"wt\") as f:\n            ujson.dump(data, f)\n    except Exception as e:\n        print(e)",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "write_game_data_to_file",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "def write_game_data_to_file(path, data):\n    try:\n        with open(path, \"wt\") as f:\n            ujson.dump(data, f)\n    except Exception as e:\n        print(e)\ndef read_game_data_from_file(path):\n    try:\n        with open(path, \"rt\") as f:\n            return ujson.load(f)",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "read_game_data_from_file",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "def read_game_data_from_file(path):\n    try:\n        with open(path, \"rt\") as f:\n            return ujson.load(f)\n    except Exception as e:\n        print(e)\n# def conv_helper(path):\n#     with open(path, \"rt\") as f:\n#         data = json.load(f)\n#     with open(path, \"wb\") as f:",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.lib.data_helper",
+        "description": "chess_agent.src.chess_agent.lib.data_helper",
+        "peekOfCode": "logger = getLogger(__name__)\ndef pretty_print(env, colors):\n    new_pgn = open(\"test3.pgn\", \"at\")\n    game = chess.pgn.Game.from_board(env.board)\n    game.headers[\"Result\"] = env.result\n    game.headers[\"White\"], game.headers[\"Black\"] = colors\n    game.headers[\"Date\"] = datetime.now().strftime(\"%Y.%m.%d\")\n    new_pgn.write(str(game) + \"\\n\\n\")\n    new_pgn.close()\n    pyperclip.copy(env.board.fen())",
+        "detail": "chess_agent.src.chess_agent.lib.data_helper",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logger",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.logger",
+        "description": "chess_agent.src.chess_agent.lib.logger",
+        "peekOfCode": "def setup_logger(log_filename):\n    format_str = '%(asctime)s@%(name)s %(levelname)s # %(message)s'\n    basicConfig(filename=log_filename, level=DEBUG, format=format_str)\n    stream_handler = StreamHandler()\n    stream_handler.setFormatter(Formatter(format_str))\n    getLogger().addHandler(stream_handler)\nif __name__ == '__main__':\n    setup_logger(\"aa.log\")\n    logger = getLogger(\"test\")\n    logger.info(\"OK\")",
+        "detail": "chess_agent.src.chess_agent.lib.logger",
+        "documentation": {}
+    },
+    {
+        "label": "load_best_model_weight",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.model_helper",
+        "description": "chess_agent.src.chess_agent.lib.model_helper",
+        "peekOfCode": "def load_best_model_weight(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:\n    :return:\n    \"\"\"\n    return model.load(model.config.resource.model_best_config_path, model.config.resource.model_best_weight_path)\ndef save_as_best_model(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:\n    :return:",
+        "detail": "chess_agent.src.chess_agent.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "save_as_best_model",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.model_helper",
+        "description": "chess_agent.src.chess_agent.lib.model_helper",
+        "peekOfCode": "def save_as_best_model(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:\n    :return:\n    \"\"\"\n    return model.save(model.config.resource.model_best_config_path, model.config.resource.model_best_weight_path)\ndef reload_best_model_weight_if_changed(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:\n    :return:",
+        "detail": "chess_agent.src.chess_agent.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "reload_best_model_weight_if_changed",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.lib.model_helper",
+        "description": "chess_agent.src.chess_agent.lib.model_helper",
+        "peekOfCode": "def reload_best_model_weight_if_changed(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:\n    :return:\n    \"\"\"\n    if model.config.model.distributed:\n        return load_best_model_weight(model)\n    else:\n        logger.debug(\"start reload the best model if changed\")\n        digest = model.fetch_digest(model.config.resource.model_best_weight_path)",
+        "detail": "chess_agent.src.chess_agent.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.lib.model_helper",
+        "description": "chess_agent.src.chess_agent.lib.model_helper",
+        "peekOfCode": "logger = getLogger(__name__)\ndef load_best_model_weight(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:\n    :return:\n    \"\"\"\n    return model.load(model.config.resource.model_best_config_path, model.config.resource.model_best_weight_path)\ndef save_as_best_model(model):\n    \"\"\"\n    :param chess_zero.agent.model.ChessModel model:",
+        "detail": "chess_agent.src.chess_agent.lib.model_helper",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.play_game.flask_chess",
+        "description": "chess_agent.src.chess_agent.play_game.flask_chess",
+        "peekOfCode": "def start(config: Config):\n    PlayWithHumanConfig().update_play_config(config.play)\n    me_player = None\n    env = ChessEnv().reset()\n    app = Flask(__name__)\n    model = ChessModel(config)\n    if not load_best_model_weight(model):\n        raise RuntimeError(\"Best model not found!\")\n    player = ChessPlayer(config, model.get_pipes(config.play.search_threads))\n    @app.route('/play', methods=[\"GET\", \"POST\"])",
+        "detail": "chess_agent.src.chess_agent.play_game.flask_chess",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.play_game.flask_chess",
+        "description": "chess_agent.src.chess_agent.play_game.flask_chess",
+        "peekOfCode": "logger = getLogger(__name__)\ndef start(config: Config):\n    PlayWithHumanConfig().update_play_config(config.play)\n    me_player = None\n    env = ChessEnv().reset()\n    app = Flask(__name__)\n    model = ChessModel(config)\n    if not load_best_model_weight(model):\n        raise RuntimeError(\"Best model not found!\")\n    player = ChessPlayer(config, model.get_pipes(config.play.search_threads))",
+        "detail": "chess_agent.src.chess_agent.play_game.flask_chess",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.play_game.uci",
+        "description": "chess_agent.src.chess_agent.play_game.uci",
+        "peekOfCode": "def start(config: Config):\n    PlayWithHumanConfig().update_play_config(config.play)\n    me_player = None\n    env = ChessEnv().reset()\n    while True:\n        line=input()\n        words=line.rstrip().split(\" \",1)\n        if words[0] == \"uci\":\n            print(\"id name ChessZero\")\n            print(\"id author ChessZero\")",
+        "detail": "chess_agent.src.chess_agent.play_game.uci",
+        "documentation": {}
+    },
+    {
+        "label": "get_player",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.play_game.uci",
+        "description": "chess_agent.src.chess_agent.play_game.uci",
+        "peekOfCode": "def get_player(config):\n    from chess_zero.agent.model_chess import ChessModel\n    from chess_zero.lib.model_helper import load_best_model_weight\n    model = ChessModel(config)\n    if not load_best_model_weight(model):\n        raise RuntimeError(\"Best model not found!\")\n    return ChessPlayer(config, model.get_pipes(config.play.search_threads))\ndef info(depth,move, score):\n    print(f\"info score cp {int(score*100)} depth {depth} pv {move}\")\n    sys.stdout.flush()",
+        "detail": "chess_agent.src.chess_agent.play_game.uci",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.play_game.uci",
+        "description": "chess_agent.src.chess_agent.play_game.uci",
+        "peekOfCode": "def info(depth,move, score):\n    print(f\"info score cp {int(score*100)} depth {depth} pv {move}\")\n    sys.stdout.flush()",
+        "detail": "chess_agent.src.chess_agent.play_game.uci",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.play_game.uci",
+        "description": "chess_agent.src.chess_agent.play_game.uci",
+        "peekOfCode": "logger = getLogger(__name__)\n# noinspection SpellCheckingInspection,SpellCheckingInspection,SpellCheckingInspection,SpellCheckingInspection,SpellCheckingInspection,SpellCheckingInspection\ndef start(config: Config):\n    PlayWithHumanConfig().update_play_config(config.play)\n    me_player = None\n    env = ChessEnv().reset()\n    while True:\n        line=input()\n        words=line.rstrip().split(\" \",1)\n        if words[0] == \"uci\":",
+        "detail": "chess_agent.src.chess_agent.play_game.uci",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateWorker",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.worker.evaluate",
+        "description": "chess_agent.src.chess_agent.worker.evaluate",
+        "peekOfCode": "class EvaluateWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.play_config = config.eval.play_config\n        self.current_model = self.load_current_model()\n        self.m = Manager()\n        self.cur_pipes = self.m.list([self.current_model.get_pipes(self.play_config.search_threads) for _ in range(self.play_config.max_processes)])",
+        "detail": "chess_agent.src.chess_agent.worker.evaluate",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.evaluate",
+        "description": "chess_agent.src.chess_agent.worker.evaluate",
+        "peekOfCode": "def start(config: Config):\n    #tf_util.set_session_config(config.play.vram_frac)\n    return EvaluateWorker(config).start()\nclass EvaluateWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.play_config = config.eval.play_config",
+        "detail": "chess_agent.src.chess_agent.worker.evaluate",
+        "documentation": {}
+    },
+    {
+        "label": "play_game",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.evaluate",
+        "description": "chess_agent.src.chess_agent.worker.evaluate",
+        "peekOfCode": "def play_game(config, cur, ng, current_white: bool) -> (float, ChessEnv, bool):\n    cur_pipes = cur.pop()\n    ng_pipes = ng.pop()\n    env = ChessEnv().reset()\n    current_player = ChessPlayer(config, pipes=cur_pipes, play_config=config.eval.play_config)\n    ng_player = ChessPlayer(config, pipes=ng_pipes, play_config=config.eval.play_config)\n    if current_white:\n        white, black = current_player, ng_player\n    else:\n        white, black = ng_player, current_player",
+        "detail": "chess_agent.src.chess_agent.worker.evaluate",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.worker.evaluate",
+        "description": "chess_agent.src.chess_agent.worker.evaluate",
+        "peekOfCode": "logger = getLogger(__name__)\ndef start(config: Config):\n    #tf_util.set_session_config(config.play.vram_frac)\n    return EvaluateWorker(config).start()\nclass EvaluateWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config",
+        "detail": "chess_agent.src.chess_agent.worker.evaluate",
+        "documentation": {}
+    },
+    {
+        "label": "OptimizeWorker",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.worker.optimize",
+        "description": "chess_agent.src.chess_agent.worker.optimize",
+        "peekOfCode": "class OptimizeWorker:\n    def __init__(self, config: Config):\n        self.config = config\n        self.model = None  # type: ChessModel\n        self.loaded_filenames = set()\n        self.loaded_data = deque(maxlen=self.config.trainer.dataset_size) # this should just be a ring buffer i.e. queue of length 500,000 in AZ\n        self.dataset = deque(),deque(),deque()\n        self.executor = ProcessPoolExecutor(max_workers=config.trainer.cleaning_processes)\n    def start(self):\n        self.model = self.load_model()",
+        "detail": "chess_agent.src.chess_agent.worker.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.optimize",
+        "description": "chess_agent.src.chess_agent.worker.optimize",
+        "peekOfCode": "def start(config: Config):\n    #tf_util.set_session_config(config.trainer.vram_frac)\n    return OptimizeWorker(config).start()\nclass OptimizeWorker:\n    def __init__(self, config: Config):\n        self.config = config\n        self.model = None  # type: ChessModel\n        self.loaded_filenames = set()\n        self.loaded_data = deque(maxlen=self.config.trainer.dataset_size) # this should just be a ring buffer i.e. queue of length 500,000 in AZ\n        self.dataset = deque(),deque(),deque()",
+        "detail": "chess_agent.src.chess_agent.worker.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "load_data_from_file",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.optimize",
+        "description": "chess_agent.src.chess_agent.worker.optimize",
+        "peekOfCode": "def load_data_from_file(filename):\n    data = read_game_data_from_file(filename)\n    return convert_to_cheating_data(data) ### HERE, use with SL\ndef convert_to_cheating_data(data):\n    \"\"\"\n    :param data: format is SelfPlayWorker.buffer\n    :return:\n    \"\"\"\n    state_list = []\n    policy_list = []",
+        "detail": "chess_agent.src.chess_agent.worker.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_cheating_data",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.optimize",
+        "description": "chess_agent.src.chess_agent.worker.optimize",
+        "peekOfCode": "def convert_to_cheating_data(data):\n    \"\"\"\n    :param data: format is SelfPlayWorker.buffer\n    :return:\n    \"\"\"\n    state_list = []\n    policy_list = []\n    value_list = []\n    for state_fen, policy, value in data:\n        state_planes = canon_input_planes(state_fen)",
+        "detail": "chess_agent.src.chess_agent.worker.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.worker.optimize",
+        "description": "chess_agent.src.chess_agent.worker.optimize",
+        "peekOfCode": "logger = getLogger(__name__)\ndef start(config: Config):\n    #tf_util.set_session_config(config.trainer.vram_frac)\n    return OptimizeWorker(config).start()\nclass OptimizeWorker:\n    def __init__(self, config: Config):\n        self.config = config\n        self.model = None  # type: ChessModel\n        self.loaded_filenames = set()\n        self.loaded_data = deque(maxlen=self.config.trainer.dataset_size) # this should just be a ring buffer i.e. queue of length 500,000 in AZ",
+        "detail": "chess_agent.src.chess_agent.worker.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "SelfPlayWorker",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.worker.self_play",
+        "description": "chess_agent.src.chess_agent.worker.self_play",
+        "peekOfCode": "class SelfPlayWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.current_model = self.load_model()\n        self.m = Manager()\n        self.cur_pipes = self.m.list([self.current_model.get_pipes(self.config.play.search_threads) for _ in range(self.config.play.max_processes)])\n    def start(self):",
+        "detail": "chess_agent.src.chess_agent.worker.self_play",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.self_play",
+        "description": "chess_agent.src.chess_agent.worker.self_play",
+        "peekOfCode": "def start(config: Config):\n    return SelfPlayWorker(config).start()\n# noinspection PyAttributeOutsideInit\nclass SelfPlayWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.current_model = self.load_model()",
+        "detail": "chess_agent.src.chess_agent.worker.self_play",
+        "documentation": {}
+    },
+    {
+        "label": "self_play_buffer",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.self_play",
+        "description": "chess_agent.src.chess_agent.worker.self_play",
+        "peekOfCode": "def self_play_buffer(config, cur) -> (ChessEnv, list):\n    pipes = cur.pop() # borrow\n    env = ChessEnv().reset()\n    white = ChessPlayer(config, pipes=pipes)\n    black = ChessPlayer(config, pipes=pipes)\n    while not env.done:\n        if env.white_to_move:\n            action = white.action(env)\n        else:\n            action = black.action(env)",
+        "detail": "chess_agent.src.chess_agent.worker.self_play",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.worker.self_play",
+        "description": "chess_agent.src.chess_agent.worker.self_play",
+        "peekOfCode": "logger = getLogger(__name__)\ndef start(config: Config):\n    return SelfPlayWorker(config).start()\n# noinspection PyAttributeOutsideInit\nclass SelfPlayWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config",
+        "detail": "chess_agent.src.chess_agent.worker.self_play",
+        "documentation": {}
+    },
+    {
+        "label": "SupervisedLearningWorker",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "class SupervisedLearningWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.buffer = []\n    def start(self):\n        self.buffer = []\n        # noinspection PyAttributeOutsideInit",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "def start(config: Config):\n    return SupervisedLearningWorker(config).start()\nclass SupervisedLearningWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.buffer = []\n    def start(self):",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "get_games_from_file",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "def get_games_from_file(filename):\n    pgn = open(filename, errors='ignore')\n    offsets = list(chess.pgn.scan_offsets(pgn))\n    n = len(offsets)\n    print(f\"found {n} games\")\n    games = []\n    for offset in offsets:\n        pgn.seek(offset)\n        games.append(chess.pgn.read_game(pgn))\n    return games",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "clip_elo_policy",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "def clip_elo_policy(config, elo):\n    return min(1, max(0, elo - config.play_data.min_elo_policy) / config.play_data.max_elo_policy)\n    # 0 until min_elo, 1 after max_elo, linear in between\ndef get_buffer(config, game) -> (ChessEnv, list):\n    env = ChessEnv().reset()\n    white = ChessPlayer(config, dummy = True)\n    black = ChessPlayer(config, dummy = True)\n    result = game.headers[\"Result\"]\n    white_elo, black_elo = int(game.headers[\"WhiteElo\"]), int(game.headers[\"BlackElo\"])\n    white_weight = clip_elo_policy(config, white_elo)",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "get_buffer",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "def get_buffer(config, game) -> (ChessEnv, list):\n    env = ChessEnv().reset()\n    white = ChessPlayer(config, dummy = True)\n    black = ChessPlayer(config, dummy = True)\n    result = game.headers[\"Result\"]\n    white_elo, black_elo = int(game.headers[\"WhiteElo\"]), int(game.headers[\"BlackElo\"])\n    white_weight = clip_elo_policy(config, white_elo)\n    black_weight = clip_elo_policy(config, black_elo)\n    actions = []\n    while not game.is_end():",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "logger = getLogger(__name__)\nTAG_REGEX = re.compile(r\"^\\[([A-Za-z0-9_]+)\\s+\\\"(.*)\\\"\\]\\s*$\")\ndef start(config: Config):\n    return SupervisedLearningWorker(config).start()\nclass SupervisedLearningWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "TAG_REGEX",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.worker.sl",
+        "description": "chess_agent.src.chess_agent.worker.sl",
+        "peekOfCode": "TAG_REGEX = re.compile(r\"^\\[([A-Za-z0-9_]+)\\s+\\\"(.*)\\\"\\]\\s*$\")\ndef start(config: Config):\n    return SupervisedLearningWorker(config).start()\nclass SupervisedLearningWorker:\n    def __init__(self, config: Config):\n        \"\"\"\n        :param config:\n        \"\"\"\n        self.config = config\n        self.buffer = []",
+        "detail": "chess_agent.src.chess_agent.worker.sl",
+        "documentation": {}
+    },
+    {
+        "label": "PlayWithHumanConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "class PlayWithHumanConfig:\n    def __init__(self):\n        self.simulation_num_per_move = 1200\n        self.threads_multiplier = 2\n        self.c_puct = 1 # lower  = prefer mean action value\n        self.noise_eps = 0\n        self.tau_decay_rate = 0  # start deterministic mode\n        self.resign_threshold = None\n    def update_play_config(self, pc):\n        \"\"\"",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "class Options:\n    new = False\nclass ResourceConfig:\n    def __init__(self):\n        self.project_dir = os.environ.get(\"PROJECT_DIR\", _project_dir())\n        self.data_dir = os.environ.get(\"DATA_DIR\", _data_dir())\n        self.model_dir = os.environ.get(\"MODEL_DIR\", os.path.join(self.data_dir, \"model\"))\n        self.model_best_config_path = os.path.join(self.model_dir, \"model_best_config.json\")\n        self.model_best_weight_path = os.path.join(self.model_dir, \"model_best_weight.h5\")\n        self.model_best_distributed_ftp_server = \"alpha-chess-zero.mygamesonline.org\"",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "ResourceConfig",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "class ResourceConfig:\n    def __init__(self):\n        self.project_dir = os.environ.get(\"PROJECT_DIR\", _project_dir())\n        self.data_dir = os.environ.get(\"DATA_DIR\", _data_dir())\n        self.model_dir = os.environ.get(\"MODEL_DIR\", os.path.join(self.data_dir, \"model\"))\n        self.model_best_config_path = os.path.join(self.model_dir, \"model_best_config.json\")\n        self.model_best_weight_path = os.path.join(self.model_dir, \"model_best_weight.h5\")\n        self.model_best_distributed_ftp_server = \"alpha-chess-zero.mygamesonline.org\"\n        self.model_best_distributed_ftp_user = \"2537576_chess\"\n        self.model_best_distributed_ftp_password = \"alpha-chess-zero-2\"",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "class Config:\n    labels = create_uci_labels()\n    n_labels = int(len(labels))\n    flipped_labels = flipped_uci_labels()\n    unflipped_index = None\n    def __init__(self, config_type=\"mini\"):\n        self.opts = Options()\n        self.resource = ResourceConfig()\n        if config_type == \"mini\":\n            import chess_zero.configs.mini as c",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "flipped_uci_labels",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "def flipped_uci_labels():\n    def repl(x):\n        return \"\".join([(str(9 - int(a)) if a.isdigit() else a) for a in x])\n    return [repl(x) for x in create_uci_labels()]\ndef create_uci_labels():\n    labels_array = []\n    letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']\n    numbers = ['1', '2', '3', '4', '5', '6', '7', '8']\n    promoted_to = ['q', 'r', 'b', 'n']\n    for l1 in range(8):",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_uci_labels",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "def create_uci_labels():\n    labels_array = []\n    letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']\n    numbers = ['1', '2', '3', '4', '5', '6', '7', '8']\n    promoted_to = ['q', 'r', 'b', 'n']\n    for l1 in range(8):\n        for n1 in range(8):\n            destinations = [(t, n1) for t in range(8)] + \\\n                           [(l1, t) for t in range(8)] + \\\n                           [(l1 + t, n1 + t) for t in range(-7, 8)] + \\",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config.unflipped_index",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.config",
+        "description": "chess_agent.src.chess_agent.config",
+        "peekOfCode": "Config.unflipped_index = [Config.labels.index(x) for x in Config.flipped_labels]\n# print(Config.labels)\n# print(Config.flipped_labels)\ndef _project_dir():\n    d = os.path.dirname\n    return d(d(d(os.path.abspath(__file__))))\ndef _data_dir():\n    return os.path.join(_project_dir(), \"data\")",
+        "detail": "chess_agent.src.chess_agent.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.manger",
+        "description": "chess_agent.src.chess_agent.manger",
+        "peekOfCode": "def create_parser():\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"cmd\", help=\"what to do\", choices=CMD_LIST)\n    parser.add_argument(\"--new\", help=\"run from new best model\", action=\"store_true\")\n    parser.add_argument(\"--type\", help=\"use normal setting\", default=\"mini\")\n    parser.add_argument(\"--total-step\", help=\"set TrainerConfig.start_total_steps\", type=int)\n    return parser\ndef setup(config: Config, args):\n    config.opts.new = args.new\n    if args.total_step is not None:",
+        "detail": "chess_agent.src.chess_agent.manger",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.manger",
+        "description": "chess_agent.src.chess_agent.manger",
+        "peekOfCode": "def setup(config: Config, args):\n    config.opts.new = args.new\n    if args.total_step is not None:\n        config.trainer.start_total_steps = args.total_step\n    config.resource.create_directories()\n    setup_logger(config.resource.main_log_path)\ndef start():\n    parser = create_parser()\n    args = parser.parse_args()\n    config_type = args.type",
+        "detail": "chess_agent.src.chess_agent.manger",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.manger",
+        "description": "chess_agent.src.chess_agent.manger",
+        "peekOfCode": "def start():\n    parser = create_parser()\n    args = parser.parse_args()\n    config_type = args.type\n    if args.cmd == 'uci':\n        disable(999999) # plz don't interfere with uci\n    config = Config(config_type=config_type)\n    setup(config, args)\n    logger.info(f\"config type: {config_type}\")\n    if args.cmd == 'self':",
+        "detail": "chess_agent.src.chess_agent.manger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.manger",
+        "description": "chess_agent.src.chess_agent.manger",
+        "peekOfCode": "logger = getLogger(__name__)\nCMD_LIST = ['self', 'opt', 'eval', 'sl', 'uci']\ndef create_parser():\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"cmd\", help=\"what to do\", choices=CMD_LIST)\n    parser.add_argument(\"--new\", help=\"run from new best model\", action=\"store_true\")\n    parser.add_argument(\"--type\", help=\"use normal setting\", default=\"mini\")\n    parser.add_argument(\"--total-step\", help=\"set TrainerConfig.start_total_steps\", type=int)\n    return parser\ndef setup(config: Config, args):",
+        "detail": "chess_agent.src.chess_agent.manger",
+        "documentation": {}
+    },
+    {
+        "label": "CMD_LIST",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.manger",
+        "description": "chess_agent.src.chess_agent.manger",
+        "peekOfCode": "CMD_LIST = ['self', 'opt', 'eval', 'sl', 'uci']\ndef create_parser():\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"cmd\", help=\"what to do\", choices=CMD_LIST)\n    parser.add_argument(\"--new\", help=\"run from new best model\", action=\"store_true\")\n    parser.add_argument(\"--type\", help=\"use normal setting\", default=\"mini\")\n    parser.add_argument(\"--total-step\", help=\"set TrainerConfig.start_total_steps\", type=int)\n    return parser\ndef setup(config: Config, args):\n    config.opts.new = args.new",
+        "detail": "chess_agent.src.chess_agent.manger",
+        "documentation": {}
+    },
+    {
+        "label": "_PATH_",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.run",
+        "description": "chess_agent.src.chess_agent.run",
+        "peekOfCode": "_PATH_ = os.path.dirname(os.path.dirname(__file__))\nif _PATH_ not in sys.path:\n\tsys.path.append(_PATH_)\nif __name__ == \"__main__\":\n\tmp.set_start_method('spawn')\n\tsys.setrecursionlimit(10000)\n\tfrom chess_zero import manager\n\tmanager.start()",
+        "detail": "chess_agent.src.chess_agent.run",
+        "documentation": {}
+    },
+    {
+        "label": "TraceDumper",
+        "kind": 6,
+        "importPath": "chess_agent.src.chess_agent.stacktracer",
+        "description": "chess_agent.src.chess_agent.stacktracer",
+        "peekOfCode": "class TraceDumper(threading.Thread):\n    \"\"\"Dump stack traces into a given file periodically.\"\"\"\n    def __init__(self,fpath,interval,auto):\n        \"\"\"\n        @param fpath: File path to output HTML (stack trace file)\n        @param auto: Set flag (True) to update trace continuously.\n            Clear flag (False) to update only if file not exists.\n            (Then delete the file to force update.)\n        @param interval: In seconds: how often to update the trace file.\n        \"\"\"",
+        "detail": "chess_agent.src.chess_agent.stacktracer",
+        "documentation": {}
+    },
+    {
+        "label": "stacktraces",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.stacktracer",
+        "description": "chess_agent.src.chess_agent.stacktracer",
+        "peekOfCode": "def stacktraces():\n    code = []\n    for threadId, stack in sys._current_frames().items():\n        code.append(\"\\n# ThreadID: %s\" % threadId)\n        for filename, lineno, name, line in traceback.extract_stack(stack):\n            code.append('File: \"%s\", line %d, in %s' % (filename, lineno, name))\n            if line:\n                code.append(\"  %s\" % (line.strip()))\n    return highlight(\"\\n\".join(code), PythonLexer(), HtmlFormatter(\n      full=False,",
+        "detail": "chess_agent.src.chess_agent.stacktracer",
+        "documentation": {}
+    },
+    {
+        "label": "trace_start",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.stacktracer",
+        "description": "chess_agent.src.chess_agent.stacktracer",
+        "peekOfCode": "def trace_start(fpath,interval=5,auto=True):\n    \"\"\"Start tracing into the given file.\"\"\"\n    global _tracer\n    if _tracer is None:\n        _tracer = TraceDumper(fpath,interval,auto)\n        _tracer.setDaemon(True)\n        _tracer.start()\n    else:\n        raise Exception(\"Already tracing to %s\"%_tracer.fpath)\ndef trace_stop():",
+        "detail": "chess_agent.src.chess_agent.stacktracer",
+        "documentation": {}
+    },
+    {
+        "label": "trace_stop",
+        "kind": 2,
+        "importPath": "chess_agent.src.chess_agent.stacktracer",
+        "description": "chess_agent.src.chess_agent.stacktracer",
+        "peekOfCode": "def trace_stop():\n    \"\"\"Stop tracing.\"\"\"\n    global _tracer\n    if _tracer is None:\n        raise Exception(\"Not tracing, cannot stop.\")\n    else:\n        _trace.stop()\n        _trace = None",
+        "detail": "chess_agent.src.chess_agent.stacktracer",
+        "documentation": {}
+    },
+    {
+        "label": "_tracer",
+        "kind": 5,
+        "importPath": "chess_agent.src.chess_agent.stacktracer",
+        "description": "chess_agent.src.chess_agent.stacktracer",
+        "peekOfCode": "_tracer = None\ndef trace_start(fpath,interval=5,auto=True):\n    \"\"\"Start tracing into the given file.\"\"\"\n    global _tracer\n    if _tracer is None:\n        _tracer = TraceDumper(fpath,interval,auto)\n        _tracer.setDaemon(True)\n        _tracer.start()\n    else:\n        raise Exception(\"Already tracing to %s\"%_tracer.fpath)",
+        "detail": "chess_agent.src.chess_agent.stacktracer",
+        "documentation": {}
+    },
+    {
+        "label": "arena",
+        "kind": 2,
+        "importPath": "connext4.commands.arena",
+        "description": "connext4.commands.arena",
+        "peekOfCode": "def arena(argv):\n    import argparse\n    parser = argparse.ArgumentParser(description='fighting between two players')\n    parser.add_argument('p1', nargs='?', default='human', help='player 1 settings')\n    parser.add_argument('p2', nargs='?', default='minimax,6', help='player 2 settings')\n    parser.add_argument('-n', '--number', default=1, type=int, help='number of fighting round')\n    args = parser.parse_args(argv)\n    from util import player\n    p1 = player.newPlayer(args.p1)\n    p2 = player.newPlayer(args.p2)",
+        "detail": "connext4.commands.arena",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "connext4.commands.generate",
+        "description": "connext4.commands.generate",
+        "peekOfCode": "def generate(argv):\n    import argparse\n    parser = argparse.ArgumentParser(description='generate game states from mcts+nn')\n    parser.add_argument('-m', '--model', default='latest.h5', help='model filename')\n    parser.add_argument('-n', '--number', default=1000000, type=int, help='number of generated states')\n    parser.add_argument('-s', '--simulation', default=100, type=int, help='number of simulations per move')\n    parser.add_argument('--hard', default=0, type=int, help='number of random moves')\n    parser.add_argument('--soft', default=1000, type=int, help='number of random moves that depends on visited node count')\n    parser.add_argument('--progress', action='store_true', help='show progress bar')\n    parser.add_argument('--gpu', type=float, help='gpu memory fraction')",
+        "detail": "connext4.commands.generate",
+        "documentation": {}
+    },
+    {
+        "label": "newmodel",
+        "kind": 2,
+        "importPath": "connext4.commands.new_model",
+        "description": "connext4.commands.new_model",
+        "peekOfCode": "def newmodel(argv):\n    import argparse\n    parser = argparse.ArgumentParser(description='New model and save to .h5 file')\n    parser.add_argument('filename', nargs='?', default='latest.h5', help='save to filename')\n    args = parser.parse_args(argv)\n    from util.nn import NN\n    NN(args.filename)",
+        "detail": "connext4.commands.new_model",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "connext4.commands.train",
+        "description": "connext4.commands.train",
+        "peekOfCode": "def train(argv):\n    import argparse\n    parser = argparse.ArgumentParser(description='train nn from history file')\n    parser.add_argument('history', help='history file')\n    parser.add_argument('input', help='input model file name')\n    parser.add_argument('output', help='output model file name')\n    parser.add_argument('--progress', action='store_true', help='show progress bar')\n    parser.add_argument('--epoch', default=1, type=int, help='training epochs')\n    parser.add_argument('--batch', default=256, type=int, help='batch size')\n    parser.add_argument('--block', default=100000, type=int, help='block size')",
+        "detail": "connext4.commands.train",
+        "documentation": {}
+    },
+    {
+        "label": "Arena",
+        "kind": 6,
+        "importPath": "connext4.util.arena",
+        "description": "connext4.util.arena",
+        "peekOfCode": "class Arena:\n    def __init__(self):\n        pass\n    def fight(self, state, p1, p2, count):\n        stats = [0, 0, 0]\n        for i in range(count):\n            print('==== EPS #{} ===='.format(i + 1))\n            winner = self._fight(state, p1, p2)\n            stats[winner + 1] += 1\n            print('stats', stats[::-1])",
+        "detail": "connext4.util.arena",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "kind": 6,
+        "importPath": "connext4.util.generate",
+        "description": "connext4.util.generate",
+        "peekOfCode": "class Generator:\n    def __init__(self):\n        pass\n    def generate(self, state, nn, cb, args):\n        self.mcts = MCTS(nn)\n        iterator = range(args['selfplay'])\n        if args['progress']:\n            from tqdm import tqdm\n            iterator = tqdm(iterator, ncols = 50)\n        # self play",
+        "detail": "connext4.util.generate",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "connext4.util.generate",
+        "description": "connext4.util.generate",
+        "peekOfCode": "def generate(state, nn, callback, args):\n    generator = Generator()\n    generator.generate(state, nn, callback, args)\nclass Generator:\n    def __init__(self):\n        pass\n    def generate(self, state, nn, cb, args):\n        self.mcts = MCTS(nn)\n        iterator = range(args['selfplay'])\n        if args['progress']:",
+        "detail": "connext4.util.generate",
+        "documentation": {}
+    },
+    {
+        "label": "get_start_board",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def get_start_board():\n    return np.zeros((BOARD_SIZE_H, BOARD_SIZE_W), dtype=np.int8)\ndef clone_board(board):\n    return np.copy(board)\ndef get_action(board):\n    result = []\n    for x in range(BOARD_SIZE_W):\n        for ry in range(BOARD_SIZE_H):\n            y = BOARD_SIZE_H - ry - 1\n            if board[y][x] == 0:",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "clone_board",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def clone_board(board):\n    return np.copy(board)\ndef get_action(board):\n    result = []\n    for x in range(BOARD_SIZE_W):\n        for ry in range(BOARD_SIZE_H):\n            y = BOARD_SIZE_H - ry - 1\n            if board[y][x] == 0:\n                # (action, key)\n                action = y * BOARD_SIZE_W + x",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "get_action",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def get_action(board):\n    result = []\n    for x in range(BOARD_SIZE_W):\n        for ry in range(BOARD_SIZE_H):\n            y = BOARD_SIZE_H - ry - 1\n            if board[y][x] == 0:\n                # (action, key)\n                action = y * BOARD_SIZE_W + x\n                result.append((action, action))\n                break",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "action_to_string",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def action_to_string(action):\n    y = action // BOARD_SIZE_W + 1\n    x = action %  BOARD_SIZE_W + 1\n    return str(x) + str(y)\ndef place_at(board, pos, player):\n    y = pos // BOARD_SIZE_W\n    x = pos %  BOARD_SIZE_W\n    board[y][x] = player\ndef get_winner(board):\n    for c in LIST4:",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "place_at",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def place_at(board, pos, player):\n    y = pos // BOARD_SIZE_W\n    x = pos %  BOARD_SIZE_W\n    board[y][x] = player\ndef get_winner(board):\n    for c in LIST4:\n        v0 = board[c[0][0]][c[0][1]]\n        if v0 == 0: continue\n        v1 = board[c[1][0]][c[1][1]]\n        if v0 != v1: continue",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "get_winner",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def get_winner(board):\n    for c in LIST4:\n        v0 = board[c[0][0]][c[0][1]]\n        if v0 == 0: continue\n        v1 = board[c[1][0]][c[1][1]]\n        if v0 != v1: continue\n        v2 = board[c[2][0]][c[2][1]]\n        if v0 != v2: continue\n        v3 = board[c[3][0]][c[3][1]]\n        if v0 != v3: continue",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "get_heuristic_score",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def get_heuristic_score(board):\n    score = 0\n    got3 = [0] * len(LIST4)\n    for i in range(len(LIST4)):\n        c = LIST4[i]\n        v = _count_xo(board[c[0][0]][c[0][1]], board[c[1][0]][c[1][1]], board[c[2][0]][c[2][1]], board[c[3][0]][c[3][1]])\n        if v > 0:\n            score += HEURISTIC_SCORE[v]\n            if i < NO_HORIZONTAL:\n                if v >= 3:",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "to_string",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def to_string(board):\n    header = '  |' + ''.join(['{} '.format(x + 1) for x in range(BOARD_SIZE_W)]) + '\\n' + '--+' + ('-' * BOARD_SIZE_W * 2) + '\\n'\n    return header + '\\n'.join(['{:2}|'.format(y + 1) + _to_line(board, y, ' ') for y in range(BOARD_SIZE_H)])\ndef to_oneline(board):\n    return ''.join([_to_line(board, y) for y in range(BOARD_SIZE_H)])\ndef _to_line(board, y, sep = ''):\n    b = board[y]\n    return sep.join([_to_char(b[x]) for x in range(BOARD_SIZE_W)])\ndef _to_char(v):\n    if v > 0: return 'x'",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "to_oneline",
+        "kind": 2,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "def to_oneline(board):\n    return ''.join([_to_line(board, y) for y in range(BOARD_SIZE_H)])\ndef _to_line(board, y, sep = ''):\n    b = board[y]\n    return sep.join([_to_char(b[x]) for x in range(BOARD_SIZE_W)])\ndef _to_char(v):\n    if v > 0: return 'x'\n    if v < 0: return 'o'\n    return '.'",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "BOARD_SIZE_W",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "BOARD_SIZE_W = 7\nBOARD_SIZE_H = 6\nKEY_SIZE = BOARD_SIZE_W * BOARD_SIZE_H\nLIST4 = []\nLIST4 += [[(y, x), (y + 1, x + 1), (y + 2, x + 2), (y + 3, x + 3)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x + 3), (y + 1, x + 2), (y + 2, x + 1), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x), (y, x + 1), (y, x + 2), (y, x + 3)] for y in range(BOARD_SIZE_H) for x in range(BOARD_SIZE_W - 3)]\nNO_HORIZONTAL = len(LIST4)\nLIST4 += [[(y, x), (y + 1, x), (y + 2, x), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W)]\nDEAD_PATTERN = {}",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "BOARD_SIZE_H",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "BOARD_SIZE_H = 6\nKEY_SIZE = BOARD_SIZE_W * BOARD_SIZE_H\nLIST4 = []\nLIST4 += [[(y, x), (y + 1, x + 1), (y + 2, x + 2), (y + 3, x + 3)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x + 3), (y + 1, x + 2), (y + 2, x + 1), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x), (y, x + 1), (y, x + 2), (y, x + 3)] for y in range(BOARD_SIZE_H) for x in range(BOARD_SIZE_W - 3)]\nNO_HORIZONTAL = len(LIST4)\nLIST4 += [[(y, x), (y + 1, x), (y + 2, x), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W)]\nDEAD_PATTERN = {}\nfor y in range(BOARD_SIZE_H - 1):",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_SIZE",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "KEY_SIZE = BOARD_SIZE_W * BOARD_SIZE_H\nLIST4 = []\nLIST4 += [[(y, x), (y + 1, x + 1), (y + 2, x + 2), (y + 3, x + 3)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x + 3), (y + 1, x + 2), (y + 2, x + 1), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x), (y, x + 1), (y, x + 2), (y, x + 3)] for y in range(BOARD_SIZE_H) for x in range(BOARD_SIZE_W - 3)]\nNO_HORIZONTAL = len(LIST4)\nLIST4 += [[(y, x), (y + 1, x), (y + 2, x), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W)]\nDEAD_PATTERN = {}\nfor y in range(BOARD_SIZE_H - 1):\n    for x in range(BOARD_SIZE_W):",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "LIST4",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "LIST4 = []\nLIST4 += [[(y, x), (y + 1, x + 1), (y + 2, x + 2), (y + 3, x + 3)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x + 3), (y + 1, x + 2), (y + 2, x + 1), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W - 3)]\nLIST4 += [[(y, x), (y, x + 1), (y, x + 2), (y, x + 3)] for y in range(BOARD_SIZE_H) for x in range(BOARD_SIZE_W - 3)]\nNO_HORIZONTAL = len(LIST4)\nLIST4 += [[(y, x), (y + 1, x), (y + 2, x), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W)]\nDEAD_PATTERN = {}\nfor y in range(BOARD_SIZE_H - 1):\n    for x in range(BOARD_SIZE_W):\n        k1 = (y, x)",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "NO_HORIZONTAL",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "NO_HORIZONTAL = len(LIST4)\nLIST4 += [[(y, x), (y + 1, x), (y + 2, x), (y + 3, x)] for y in range(BOARD_SIZE_H - 3) for x in range(BOARD_SIZE_W)]\nDEAD_PATTERN = {}\nfor y in range(BOARD_SIZE_H - 1):\n    for x in range(BOARD_SIZE_W):\n        k1 = (y, x)\n        k2 = (y + 1, x)\n        dp = []\n        for p1 in range(NO_HORIZONTAL):\n            if k1 in LIST4[p1]:",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "DEAD_PATTERN",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "DEAD_PATTERN = {}\nfor y in range(BOARD_SIZE_H - 1):\n    for x in range(BOARD_SIZE_W):\n        k1 = (y, x)\n        k2 = (y + 1, x)\n        dp = []\n        for p1 in range(NO_HORIZONTAL):\n            if k1 in LIST4[p1]:\n                for p2 in range(NO_HORIZONTAL):\n                    if k2 in LIST4[p2]:",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "HEURISTIC_SCORE",
+        "kind": 5,
+        "importPath": "connext4.util.internal",
+        "description": "connext4.util.internal",
+        "peekOfCode": "HEURISTIC_SCORE = [0, 1, 3, 20, 1000]\ndef get_heuristic_score(board):\n    score = 0\n    got3 = [0] * len(LIST4)\n    for i in range(len(LIST4)):\n        c = LIST4[i]\n        v = _count_xo(board[c[0][0]][c[0][1]], board[c[1][0]][c[1][1]], board[c[2][0]][c[2][1]], board[c[3][0]][c[3][1]])\n        if v > 0:\n            score += HEURISTIC_SCORE[v]\n            if i < NO_HORIZONTAL:",
+        "detail": "connext4.util.internal",
+        "documentation": {}
+    },
+    {
+        "label": "build_model",
+        "kind": 2,
+        "importPath": "connext4.util.keras_model",
+        "description": "connext4.util.keras_model",
+        "peekOfCode": "def build_model(args):\n    cnn_filter_num = args['cnn_filter_num']\n    cnn_filter_size = args['cnn_filter_size']\n    l2_reg = args['l2_reg']\n    in_x = x = Input(args['input_dim'])\n    # (batch, channels, height, width)\n    x = Conv2D(filters=cnn_filter_num, kernel_size=cnn_filter_size, padding=\"same\",\n                data_format=\"channels_first\", kernel_regularizer=l2(l2_reg))(x)\n    x = BatchNormalization(axis=1)(x)\n    x = Activation(\"relu\")(x)",
+        "detail": "connext4.util.keras_model",
+        "documentation": {}
+    },
+    {
+        "label": "build",
+        "kind": 2,
+        "importPath": "connext4.util.keras_model",
+        "description": "connext4.util.keras_model",
+        "peekOfCode": "def build(args):\n    model = build_model(args)\n    model.compile(loss=['categorical_crossentropy', 'mean_squared_error'],\n                    optimizer=SGD(lr=args['learning_rate'], momentum = args['momentum']),\n                    #optimizer='adam',\n                    loss_weights=[0.5, 0.5])\n    return model\ndef load(filename):\n    return load_model(filename)",
+        "detail": "connext4.util.keras_model",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "kind": 2,
+        "importPath": "connext4.util.keras_model",
+        "description": "connext4.util.keras_model",
+        "peekOfCode": "def load(filename):\n    return load_model(filename)",
+        "detail": "connext4.util.keras_model",
+        "documentation": {}
+    },
+    {
+        "label": "NodeInfo",
+        "kind": 6,
+        "importPath": "connext4.util.monte_carlo_tree_search",
+        "description": "connext4.util.monte_carlo_tree_search",
+        "peekOfCode": "class NodeInfo:\n    def __init__(self, state, action, raw_policy, value):\n        self.state = state\n        self.action = action\n        self.policy = [raw_policy[k] for a, k in action]\n        self.value = value\n        self.children_state = [None for i in range(len(action))]\n    def __str__(self):\n        return self._tostring()\n    def __repr__(self):",
+        "detail": "connext4.util.monte_carlo_tree_search",
+        "documentation": {}
+    },
+    {
+        "label": "NodeStat",
+        "kind": 6,
+        "importPath": "connext4.util.monte_carlo_tree_search",
+        "description": "connext4.util.monte_carlo_tree_search",
+        "peekOfCode": "class NodeStat:\n    def __init__(self, action_len):\n        self.total_visited = 0\n        self.children_score = [0. for i in range(action_len)]\n        self.children_visited = [0 for i in range(action_len)]\n    def __str__(self):\n        return self._tostring()\n    def __repr__(self):\n        return self._tostring()\n    def _tostring(self):",
+        "detail": "connext4.util.monte_carlo_tree_search",
+        "documentation": {}
+    },
+    {
+        "label": "Result",
+        "kind": 6,
+        "importPath": "connext4.util.monte_carlo_tree_search",
+        "description": "connext4.util.monte_carlo_tree_search",
+        "peekOfCode": "class Result:\n    def __init__(self, action, key, Q, U, visited, policy):\n        self.action = action\n        self.key = key\n        self.Q = Q\n        self.U = U\n        self.visited = visited\n        self.policy = policy\nclass MCTS:\n    def __init__(self, nn):",
+        "detail": "connext4.util.monte_carlo_tree_search",
+        "documentation": {}
+    },
+    {
+        "label": "MCTS",
+        "kind": 6,
+        "importPath": "connext4.util.monte_carlo_tree_search",
+        "description": "connext4.util.monte_carlo_tree_search",
+        "peekOfCode": "class MCTS:\n    def __init__(self, nn):\n        self.nn = nn\n        self.info_map = {}\n        self.stat_map = {}\n    def resetStats(self):\n        if len(self.info_map) > 20000: self.info_map = {}\n        self.stat_map = {}\n    def getMostVisitedAction(self, state, sim_count, verbose = False):\n        info = self.getActionInfo(state, sim_count)",
+        "detail": "connext4.util.monte_carlo_tree_search",
+        "documentation": {}
+    },
+    {
+        "label": "CPUCT",
+        "kind": 5,
+        "importPath": "connext4.util.monte_carlo_tree_search",
+        "description": "connext4.util.monte_carlo_tree_search",
+        "peekOfCode": "CPUCT = 1.0\nclass NodeInfo:\n    def __init__(self, state, action, raw_policy, value):\n        self.state = state\n        self.action = action\n        self.policy = [raw_policy[k] for a, k in action]\n        self.value = value\n        self.children_state = [None for i in range(len(action))]\n    def __str__(self):\n        return self._tostring()",
+        "detail": "connext4.util.monte_carlo_tree_search",
+        "documentation": {}
+    },
+    {
+        "label": "NN",
+        "kind": 6,
+        "importPath": "connext4.util.nn",
+        "description": "connext4.util.nn",
+        "peekOfCode": "class NN:\n    def __init__(self, filename):\n        self.model = load(filename)\n        pass\n    def save(self, filename):\n        self.model.save(filename)\n    def predict(self, x):\n        p, v = self.model.predict(np.asarray([x]))\n        return p[0], v[0][0]\n    def bulkPredict(self, x):",
+        "detail": "connext4.util.nn",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "kind": 2,
+        "importPath": "connext4.util.nn",
+        "description": "connext4.util.nn",
+        "peekOfCode": "def init(filename):\n    model = build({\n        'input_dim': (2, util.BOARD_SIZE_H, util.BOARD_SIZE_W),\n\t\t'policy_dim': util.KEY_SIZE,\n\t\t'res_layer_num': 5,\n\t\t'cnn_filter_num': 64,\n\t\t'cnn_filter_size': 5,\n\t\t'l2_reg': 1e-4,\n\t\t'learning_rate': 0.003,\n\t\t'momentum': 0.9,",
+        "detail": "connext4.util.nn",
+        "documentation": {}
+    },
+    {
+        "label": "MctsPlayer",
+        "kind": 6,
+        "importPath": "connext4.util.player",
+        "description": "connext4.util.player",
+        "peekOfCode": "class MctsPlayer:\n    def __init__(self, nn, sim_count, verbose=True):\n        self.mcts = MCTS(nn)\n        self.sim_count = sim_count\n        self.verbose = verbose\n    def prepare(self):\n        self.mcts.resetStats()\n    def getNextAction(self, state):\n        return self.mcts.getMostVisitedAction(state, self.sim_count, self.verbose)\nclass HumanPlayer:",
+        "detail": "connext4.util.player",
+        "documentation": {}
+    },
+    {
+        "label": "HumanPlayer",
+        "kind": 6,
+        "importPath": "connext4.util.player",
+        "description": "connext4.util.player",
+        "peekOfCode": "class HumanPlayer:\n    def __init__(self):\n        pass\n    def getNextAction(self, state):\n        action = state.getAction()\n        available_x = []\n        for i in range(len(action)):\n            a, k = action[i]\n            x = a %  util.BOARD_SIZE_W + 1\n            y = a // util.BOARD_SIZE_W + 1",
+        "detail": "connext4.util.player",
+        "documentation": {}
+    },
+    {
+        "label": "newPlayer",
+        "kind": 2,
+        "importPath": "connext4.util.player",
+        "description": "connext4.util.player",
+        "peekOfCode": "def newPlayer(settings):\n    settings = settings.split(',')\n    t = settings[0]\n    if t == 'mcts':\n        nn = NN(settings[1])\n        sim_count = int(settings[2]) if len(settings) >= 3 else 100\n        return MctsPlayer(nn, sim_count)\n    else:\n        return HumanPlayer()\nclass MctsPlayer:",
+        "detail": "connext4.util.player",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "connext4.util.state",
+        "description": "connext4.util.state",
+        "peekOfCode": "class State:\n    def __init__(self, prototype = None):\n        if prototype == None:\n            self.board = util.get_start_board()\n            self.currentPlayer = 1\n            self.winner = None\n        else:\n            self.board = util.clone_board(prototype.board)\n            self.currentPlayer = prototype.currentPlayer\n            self.winner = prototype.winner",
+        "detail": "connext4.util.state",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "connext4.util.trainer",
+        "description": "connext4.util.trainer",
+        "peekOfCode": "def train(state, nn, filename, args = {}):\n    batch = args['batch'] if 'batch' in args and type(args['batch']) == int else 32\n    block = args['block'] if 'block' in args and type(args['block']) == int else 100000\n    progress = 'progress' in args and type(args['progress']) == bool and args['progress']\n    X = []\n    policy = []\n    value = []\n    def newPbar():\n        from tqdm import tqdm\n        return tqdm(total=block, ncols=50)",
+        "detail": "connext4.util.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_command",
+        "kind": 2,
+        "importPath": "connext4.run",
+        "description": "connext4.run",
+        "peekOfCode": "def load_command(name):\n    COMMANDS[name] = getattr(import_module('command.{}'.format(name)), name)\nload_command('newmodel')\nload_command('generate')\nload_command('arena')\nload_command('train')\ncommand = sys.argv[1]\nif command not in COMMANDS:\n    sys.stderr.write('unknown command `{}`\\n'.format(command))\n    sys.exit(1)",
+        "detail": "connext4.run",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "connext4.run",
+        "description": "connext4.run",
+        "peekOfCode": "parser = argparse.ArgumentParser(description='Run game state space commands.')\nparser.add_argument('command')\nparser.add_argument('arguments')\nif len(sys.argv) < 2:\n    sys.stderr.write('usage: run.py command [argument ...]\\n')\n    sys.exit(1)\nCOMMANDS = {}\ndef load_command(name):\n    COMMANDS[name] = getattr(import_module('command.{}'.format(name)), name)\nload_command('newmodel')",
+        "detail": "connext4.run",
+        "documentation": {}
+    },
+    {
+        "label": "COMMANDS",
+        "kind": 5,
+        "importPath": "connext4.run",
+        "description": "connext4.run",
+        "peekOfCode": "COMMANDS = {}\ndef load_command(name):\n    COMMANDS[name] = getattr(import_module('command.{}'.format(name)), name)\nload_command('newmodel')\nload_command('generate')\nload_command('arena')\nload_command('train')\ncommand = sys.argv[1]\nif command not in COMMANDS:\n    sys.stderr.write('unknown command `{}`\\n'.format(command))",
+        "detail": "connext4.run",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "connext4.run",
+        "description": "connext4.run",
+        "peekOfCode": "command = sys.argv[1]\nif command not in COMMANDS:\n    sys.stderr.write('unknown command `{}`\\n'.format(command))\n    sys.exit(1)\n# run\nCOMMANDS[command](sys.argv[2:])",
+        "detail": "connext4.run",
+        "documentation": {}
+    }
+]

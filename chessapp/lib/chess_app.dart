@@ -187,6 +187,7 @@ class _ChessGameState extends State<ChessGame> {
   }
 
   String getPositionString(String move) {
+    // ignore: unused_local_variable
     String str = "", s = "";
     print('PRINTING POSITIONS');
     for(int i = 8; i >= 1; i--) {
@@ -207,10 +208,11 @@ class _ChessGameState extends State<ChessGame> {
     String position = s.substring(0, s.length-1) + " w KQkq - 0 1"; 
     var json = jsonEncode({"position": position, "moves": move});
     makePOSTRequest(json);
+    return position;
     }
 
     void makePOSTRequest(var json) async{
-      print("MAKING A POST REQUEST: ${json}");
+      print("MAKING A POST REQUEST: $json");
       Uri url = Uri.parse('http://35.200.253.0:8080/play');
       var response = await http.post(url, headers: {"Content-Type": "application/json"} ,body: json);
       print("RESPONSE: ${response.body}");

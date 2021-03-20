@@ -211,7 +211,7 @@ class _ChessGameState extends State<ChessGame> {
 
     void makePOSTRequest(var json) async{
       print("MAKING A POST REQUEST: ${json}");
-      var url = 'http://35.200.253.0:8080/play';
+      Uri url = Uri.parse('http://35.200.253.0:8080/play');
       var response = await http.post(url, headers: {"Content-Type": "application/json"} ,body: json);
       print("RESPONSE: ${response.body}");
       String rsp = response.body;
